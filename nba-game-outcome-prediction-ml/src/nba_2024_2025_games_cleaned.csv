@@ -1,0 +1,1181 @@
+GAME_ID,GAME_DATE,TEAM_NAME_HOME,TEAM_NAME_AWAY,WL_HOME,PTS_HOME,REB_HOME,AST_HOME,TOV_HOME,PTS_AWAY,REB_AWAY,AST_AWAY,TOV_AWAY,HOME_TEAM_WIN
+0022400061,2024-10-22,Boston Celtics,New York Knicks,W,132,40,33,4,109,34,20,12,1
+0022400062,2024-10-22,Los Angeles Lakers,Minnesota Timberwolves,W,110,46,22,7,103,47,17,16,1
+0022400064,2024-10-23,Atlanta Hawks,Brooklyn Nets,W,120,45,25,16,116,43,21,19,1
+0022400071,2024-10-23,LA Clippers,Phoenix Suns,L,113,51,27,22,116,42,25,22,0
+0022400063,2024-10-23,Detroit Pistons,Indiana Pacers,L,109,38,22,14,115,39,32,15,0
+0022400070,2024-10-23,Utah Jazz,Memphis Grizzlies,L,124,49,21,17,126,41,28,13,0
+0022400067,2024-10-23,Toronto Raptors,Cleveland Cavaliers,L,106,38,25,19,136,36,29,13,0
+0022400069,2024-10-23,New Orleans Pelicans,Chicago Bulls,W,123,42,29,12,111,47,26,21,1
+0022400065,2024-10-23,Miami Heat,Orlando Magic,L,97,41,24,11,116,57,28,14,0
+0022400066,2024-10-23,Philadelphia 76ers,Milwaukee Bucks,L,109,49,18,10,124,46,27,14,0
+0022400072,2024-10-23,Portland Trail Blazers,Golden State Warriors,L,104,42,21,18,140,57,38,18,0
+0022400068,2024-10-23,Houston Rockets,Charlotte Hornets,L,105,43,19,8,110,56,20,17,0
+0022400075,2024-10-24,Denver Nuggets,Oklahoma City Thunder,L,87,57,29,16,102,49,23,12,0
+0022400074,2024-10-24,Dallas Mavericks,San Antonio Spurs,W,120,50,27,10,109,52,30,19,1
+0022400076,2024-10-24,Sacramento Kings,Minnesota Timberwolves,L,115,38,21,9,117,42,24,17,0
+0022400073,2024-10-24,Washington Wizards,Boston Celtics,L,102,40,27,15,122,49,21,14,0
+0022400079,2024-10-25,Atlanta Hawks,Charlotte Hornets,W,125,39,25,14,120,53,22,18,1
+0022400085,2024-10-25,Los Angeles Lakers,Phoenix Suns,W,123,37,33,13,116,34,35,17,1
+0022400078,2024-10-25,Toronto Raptors,Philadelphia 76ers,W,115,54,25,27,107,28,19,16,1
+0022400084,2024-10-25,Utah Jazz,Golden State Warriors,L,86,45,18,22,127,60,35,15,0
+0022400080,2024-10-25,Cleveland Cavaliers,Detroit Pistons,W,113,39,28,13,101,42,25,22,1
+0022400086,2024-10-25,Portland Trail Blazers,New Orleans Pelicans,L,103,48,26,20,105,44,25,14,0
+0022400082,2024-10-25,Houston Rockets,Memphis Grizzlies,W,128,64,20,19,108,43,24,19,1
+0022400083,2024-10-25,Milwaukee Bucks,Chicago Bulls,L,122,47,24,15,133,46,30,10,0
+0022400077,2024-10-25,Orlando Magic,Brooklyn Nets,W,116,39,28,13,101,37,22,19,1
+0022400081,2024-10-25,New York Knicks,Indiana Pacers,W,123,43,19,12,98,33,28,16,1
+0022400093,2024-10-26,Minnesota Timberwolves,Toronto Raptors,W,112,41,29,13,101,46,29,20,1
+0022400089,2024-10-26,Detroit Pistons,Boston Celtics,L,118,44,27,15,124,37,19,10,0
+0022400091,2024-10-26,Chicago Bulls,Oklahoma City Thunder,L,95,61,23,26,114,54,21,10,0
+0022400092,2024-10-26,Memphis Grizzlies,Orlando Magic,W,124,42,38,18,111,41,21,19,1
+0022400096,2024-10-26,Los Angeles Lakers,Sacramento Kings,W,131,45,32,19,127,32,32,14,1
+0022400094,2024-10-26,San Antonio Spurs,Houston Rockets,W,109,49,23,17,106,34,21,11,1
+0022400090,2024-10-26,Washington Wizards,Cleveland Cavaliers,L,116,46,25,15,135,48,27,17,0
+0022400095,2024-10-26,Phoenix Suns,Dallas Mavericks,W,114,47,26,11,102,46,22,9,1
+0022400088,2024-10-26,Charlotte Hornets,Miami Heat,L,106,46,20,20,114,43,33,14,0
+0022400087,2024-10-26,Denver Nuggets,LA Clippers,L,104,37,20,10,109,44,30,17,0
+0022400097,2024-10-27,Indiana Pacers,Philadelphia 76ers,L,114,37,28,20,118,54,15,20,0
+0022400099,2024-10-27,Portland Trail Blazers,New Orleans Pelicans,W,125,51,25,16,103,39,24,17,1
+0022400098,2024-10-27,Brooklyn Nets,Milwaukee Bucks,W,115,47,23,12,102,43,20,18,1
+0022400100,2024-10-27,Oklahoma City Thunder,Atlanta Hawks,W,128,45,26,10,104,49,24,20,1
+0022400101,2024-10-27,Golden State Warriors,LA Clippers,L,104,47,19,21,112,48,27,18,0
+0022400102,2024-10-28,Orlando Magic,Indiana Pacers,W,119,46,26,15,115,44,25,13,1
+0022400112,2024-10-28,Sacramento Kings,Portland Trail Blazers,W,111,40,25,16,98,46,17,18,1
+0022400111,2024-10-28,Phoenix Suns,Los Angeles Lakers,W,109,46,21,11,105,46,25,12,1
+0022400107,2024-10-28,Toronto Raptors,Denver Nuggets,L,125,54,30,15,127,52,29,16,0
+0022400108,2024-10-28,Memphis Grizzlies,Chicago Bulls,L,123,60,37,10,126,50,36,9,0
+0022400106,2024-10-28,New York Knicks,Cleveland Cavaliers,L,104,43,22,16,110,41,21,14,0
+0022400109,2024-10-28,San Antonio Spurs,Houston Rockets,L,101,49,22,17,106,43,20,12,0
+0022400103,2024-10-28,Atlanta Hawks,Washington Wizards,L,119,39,32,16,121,43,24,18,0
+0022400105,2024-10-28,Miami Heat,Detroit Pistons,W,106,44,24,12,98,54,14,17,1
+0022400104,2024-10-28,Boston Celtics,Milwaukee Bucks,W,119,38,24,14,108,43,18,17,1
+0022400110,2024-10-28,Dallas Mavericks,Utah Jazz,W,110,50,27,14,102,50,24,15,1
+0022400116,2024-10-29,Golden State Warriors,New Orleans Pelicans,W,124,34,34,8,106,44,23,24,1
+0022400115,2024-10-29,Utah Jazz,Sacramento Kings,L,96,42,24,17,113,49,26,12,0
+0022400114,2024-10-29,Minnesota Timberwolves,Dallas Mavericks,L,114,42,33,20,120,40,25,10,0
+0022400113,2024-10-29,Brooklyn Nets,Denver Nuggets,L,139,41,37,9,144,43,31,5,0
+0022400127,2024-10-30,LA Clippers,Portland Trail Blazers,L,105,49,26,14,106,47,19,13,0
+0022400119,2024-10-30,Indiana Pacers,Boston Celtics,W,135,57,33,19,132,51,23,14,1
+0022400124,2024-10-30,Memphis Grizzlies,Brooklyn Nets,L,106,38,27,22,119,34,27,19,0
+0022400126,2024-10-30,Golden State Warriors,New Orleans Pelicans,W,104,42,32,14,89,49,24,15,1
+0022400123,2024-10-30,Chicago Bulls,Orlando Magic,W,102,54,23,15,99,42,25,12,1
+0022400117,2024-10-30,Charlotte Hornets,Toronto Raptors,W,138,38,31,16,133,41,37,14,1
+0022400118,2024-10-30,Cleveland Cavaliers,Los Angeles Lakers,W,134,36,37,12,110,37,21,21,1
+0022400122,2024-10-30,Miami Heat,New York Knicks,L,107,39,27,10,116,42,30,11,0
+0022400120,2024-10-30,Philadelphia 76ers,Detroit Pistons,L,95,37,17,9,105,49,23,17,0
+0022400121,2024-10-30,Washington Wizards,Atlanta Hawks,W,133,37,32,16,120,41,28,17,1
+0022400125,2024-10-30,Oklahoma City Thunder,San Antonio Spurs,W,105,39,28,14,93,52,22,22,1
+0022400128,2024-10-31,Memphis Grizzlies,Milwaukee Bucks,W,122,56,26,17,99,38,20,10,1
+0022400130,2024-10-31,Utah Jazz,San Antonio Spurs,L,88,53,19,26,106,42,25,11,0
+0022400129,2024-10-31,Dallas Mavericks,Houston Rockets,L,102,37,21,10,108,50,21,10,0
+0022400131,2024-10-31,LA Clippers,Phoenix Suns,L,119,48,27,14,125,39,29,12,0
+0022400137,2024-11-01,Toronto Raptors,Los Angeles Lakers,L,125,44,35,11,131,43,29,10,0
+0022400140,2024-11-01,Portland Trail Blazers,Oklahoma City Thunder,L,114,36,27,19,137,45,31,13,0
+0022400139,2024-11-01,Minnesota Timberwolves,Denver Nuggets,W,119,38,34,17,116,46,30,15,1
+0022400136,2024-11-01,Brooklyn Nets,Chicago Bulls,W,120,46,34,11,112,44,24,16,1
+0022400132,2024-11-01,Charlotte Hornets,Boston Celtics,L,109,42,20,16,124,41,21,10,0
+0022400134,2024-11-01,Detroit Pistons,New York Knicks,L,98,38,23,22,128,45,31,10,0
+0022400138,2024-11-01,New Orleans Pelicans,Indiana Pacers,W,125,46,28,8,118,39,35,14,1
+0022400133,2024-11-01,Cleveland Cavaliers,Orlando Magic,W,120,49,25,13,109,39,26,14,1
+0022400135,2024-11-01,Atlanta Hawks,Sacramento Kings,L,115,40,30,13,123,51,28,14,0
+0022400144,2024-11-02,Houston Rockets,Golden State Warriors,L,121,49,27,11,127,47,26,14,0
+0022400150,2024-11-02,LA Clippers,Oklahoma City Thunder,L,92,50,23,22,105,41,25,12,0
+0022400148,2024-11-02,Denver Nuggets,Utah Jazz,W,129,52,33,18,103,39,24,24,1
+0022400143,2024-11-02,Toronto Raptors,Sacramento Kings,W,131,46,31,19,128,49,21,18,1
+0022400146,2024-11-02,San Antonio Spurs,Minnesota Timberwolves,W,113,44,32,13,103,32,21,13,1
+0022400149,2024-11-02,Phoenix Suns,Portland Trail Blazers,W,103,63,29,14,97,56,17,6,1
+0022400145,2024-11-02,Milwaukee Bucks,Cleveland Cavaliers,L,113,45,24,13,114,45,31,7,0
+0022400141,2024-11-02,Charlotte Hornets,Boston Celtics,L,103,34,24,13,113,44,23,15,0
+0022400142,2024-11-02,Philadelphia 76ers,Memphis Grizzlies,L,107,33,22,14,124,52,35,17,0
+0022400152,2024-11-03,New Orleans Pelicans,Atlanta Hawks,L,111,43,22,18,126,41,29,16,0
+0022400151,2024-11-03,Brooklyn Nets,Detroit Pistons,L,92,27,23,14,106,47,25,21,0
+0022400153,2024-11-03,Dallas Mavericks,Orlando Magic,W,108,53,25,19,85,43,19,15,1
+0022400162,2024-11-04,Minnesota Timberwolves,Charlotte Hornets,W,114,45,23,15,93,38,19,14,1
+0022400163,2024-11-04,Oklahoma City Thunder,Orlando Magic,W,102,42,23,17,86,41,20,19,1
+0022400160,2024-11-04,Chicago Bulls,Utah Jazz,L,126,36,36,9,135,49,35,13,0
+0022400161,2024-11-04,Houston Rockets,New York Knicks,W,109,50,21,11,97,39,20,10,1
+0022400158,2024-11-04,Brooklyn Nets,Memphis Grizzlies,W,106,37,28,14,104,44,29,15,1
+0022400156,2024-11-04,Detroit Pistons,Los Angeles Lakers,W,115,55,22,12,103,37,28,13,1
+0022400168,2024-11-04,LA Clippers,San Antonio Spurs,W,113,44,25,11,104,45,22,14,1
+0022400155,2024-11-04,Washington Wizards,Golden State Warriors,L,112,47,29,10,125,56,29,7,0
+0022400165,2024-11-04,Dallas Mavericks,Indiana Pacers,L,127,38,29,9,134,46,30,10,0
+0022400154,2024-11-04,Cleveland Cavaliers,Milwaukee Bucks,W,116,39,28,10,114,49,21,15,1
+0022400167,2024-11-04,Phoenix Suns,Philadelphia 76ers,W,118,43,24,14,116,38,27,15,1
+0022400164,2024-11-04,New Orleans Pelicans,Portland Trail Blazers,L,100,34,24,16,118,38,21,12,0
+0022400159,2024-11-04,Miami Heat,Sacramento Kings,L,110,36,24,11,111,39,23,14,0
+0022400166,2024-11-04,Denver Nuggets,Toronto Raptors,W,121,44,29,17,119,41,38,14,1
+0022400157,2024-11-04,Atlanta Hawks,Boston Celtics,L,93,43,23,20,123,50,27,13,0
+0022400173,2024-11-06,Houston Rockets,San Antonio Spurs,W,127,45,28,12,100,41,20,20,1
+0022400170,2024-11-06,Indiana Pacers,Orlando Magic,W,118,36,21,11,111,38,26,16,1
+0022400172,2024-11-06,Boston Celtics,Golden State Warriors,L,112,47,22,12,118,53,22,11,0
+0022400176,2024-11-06,Dallas Mavericks,Chicago Bulls,W,119,47,33,15,99,51,25,23,1
+0022400178,2024-11-06,Phoenix Suns,Miami Heat,W,115,46,29,16,112,43,27,10,1
+0022400177,2024-11-06,Denver Nuggets,Oklahoma City Thunder,W,124,55,34,18,122,47,29,14,1
+0022400174,2024-11-06,Memphis Grizzlies,Los Angeles Lakers,W,131,50,28,18,114,37,23,11,1
+0022400175,2024-11-06,New Orleans Pelicans,Cleveland Cavaliers,L,122,33,21,10,131,46,33,13,0
+0022400171,2024-11-06,Atlanta Hawks,New York Knicks,W,121,48,31,8,116,41,29,16,1
+0022400179,2024-11-06,LA Clippers,Philadelphia 76ers,W,110,29,27,19,98,32,19,20,1
+0022400180,2024-11-06,Sacramento Kings,Toronto Raptors,W,122,47,26,10,107,34,25,12,1
+0022400169,2024-11-06,Charlotte Hornets,Detroit Pistons,W,108,47,22,12,107,46,34,11,1
+0022400181,2024-11-07,Chicago Bulls,Minnesota Timberwolves,L,119,32,30,13,135,40,29,14,0
+0022400182,2024-11-07,Milwaukee Bucks,Utah Jazz,W,123,41,20,11,100,39,24,22,1
+0022400183,2024-11-07,San Antonio Spurs,Portland Trail Blazers,W,118,45,35,16,105,41,23,14,1
+0022400185,2024-11-08,Detroit Pistons,Atlanta Hawks,W,122,45,27,21,121,44,30,18,1
+0022400190,2024-11-08,Dallas Mavericks,Phoenix Suns,L,113,39,18,11,114,37,26,9,0
+0022400194,2024-11-08,Denver Nuggets,Miami Heat,W,135,39,37,18,122,33,33,14,1
+0022400191,2024-11-08,Memphis Grizzlies,Washington Wizards,W,128,50,30,19,104,41,27,18,1
+0022400184,2024-11-08,Charlotte Hornets,Indiana Pacers,W,103,56,23,15,83,37,24,14,1
+0022400187,2024-11-08,Boston Celtics,Brooklyn Nets,W,108,39,23,13,104,51,24,13,1
+0022400189,2024-11-08,New York Knicks,Milwaukee Bucks,W,116,48,35,11,94,41,20,12,1
+0022400186,2024-11-08,Orlando Magic,New Orleans Pelicans,W,115,43,28,15,88,31,18,16,1
+0022400192,2024-11-08,Oklahoma City Thunder,Houston Rockets,W,126,41,24,11,107,48,19,17,1
+0022400188,2024-11-08,Cleveland Cavaliers,Golden State Warriors,W,136,43,33,20,117,40,32,17,1
+0022400195,2024-11-08,Los Angeles Lakers,Philadelphia 76ers,W,116,45,28,13,106,44,28,8,1
+0022400193,2024-11-08,Minnesota Timberwolves,Portland Trail Blazers,W,127,49,32,20,102,37,13,17,1
+0022400196,2024-11-08,Sacramento Kings,LA Clippers,L,98,35,19,14,107,48,20,21,0
+0022400199,2024-11-09,Cleveland Cavaliers,Brooklyn Nets,W,105,33,24,16,100,36,21,20,1
+0022400200,2024-11-09,LA Clippers,Toronto Raptors,W,105,47,18,14,103,44,26,10,1
+0022400197,2024-11-09,San Antonio Spurs,Utah Jazz,L,110,37,29,20,111,45,23,18,0
+0022400198,2024-11-09,Atlanta Hawks,Chicago Bulls,L,113,39,31,14,125,47,30,18,0
+0022400207,2024-11-10,Oklahoma City Thunder,Golden State Warriors,L,116,41,25,11,127,46,35,15,0
+0022400204,2024-11-10,Orlando Magic,Washington Wizards,W,121,44,25,12,94,37,20,17,1
+0022400209,2024-11-10,Phoenix Suns,Sacramento Kings,L,118,48,30,12,127,57,23,15,0
+0022400203,2024-11-10,Indiana Pacers,New York Knicks,W,132,32,27,10,121,39,23,14,1
+0022400210,2024-11-10,Portland Trail Blazers,Memphis Grizzlies,L,89,43,18,24,134,51,32,23,0
+0022400208,2024-11-10,Denver Nuggets,Dallas Mavericks,W,122,45,35,10,120,42,29,10,1
+0022400206,2024-11-10,Minnesota Timberwolves,Miami Heat,L,94,47,22,20,95,43,18,23,0
+0022400202,2024-11-10,Milwaukee Bucks,Boston Celtics,L,107,41,21,13,113,42,27,12,0
+0022400205,2024-11-10,Philadelphia 76ers,Charlotte Hornets,W,107,40,24,17,105,50,22,21,1
+0022400211,2024-11-10,Los Angeles Lakers,Toronto Raptors,W,123,33,30,5,103,40,26,18,1
+0022400201,2024-11-10,Detroit Pistons,Houston Rockets,L,99,46,21,18,101,53,19,12,0
+0022400213,2024-11-11,Houston Rockets,Washington Wizards,W,107,58,13,21,92,34,21,19,1
+0022400212,2024-11-11,Chicago Bulls,Cleveland Cavaliers,L,113,51,26,21,119,43,26,9,0
+0022400215,2024-11-11,Oklahoma City Thunder,LA Clippers,W,134,29,31,11,128,47,31,24,1
+0022400214,2024-11-11,New Orleans Pelicans,Brooklyn Nets,L,105,45,31,11,107,46,24,17,0
+0022400216,2024-11-11,San Antonio Spurs,Sacramento Kings,W,116,44,31,18,96,37,18,11,1
+0022400007,2024-11-12,Golden State Warriors,Dallas Mavericks,W,120,50,29,13,117,40,26,18,1
+0022400004,2024-11-12,Philadelphia 76ers,New York Knicks,L,99,40,19,15,111,47,31,15,0
+0022400002,2024-11-12,Detroit Pistons,Miami Heat,W,123,56,32,19,121,43,25,12,1
+0022400003,2024-11-12,Orlando Magic,Charlotte Hornets,W,114,43,25,11,89,48,22,22,1
+0022400001,2024-11-12,Boston Celtics,Atlanta Hawks,L,116,34,28,20,117,44,35,16,0
+0022400008,2024-11-12,Portland Trail Blazers,Minnesota Timberwolves,W,122,39,30,20,108,32,22,23,1
+0022400006,2024-11-12,Utah Jazz,Phoenix Suns,L,112,39,32,13,120,42,21,10,0
+0022400005,2024-11-12,Milwaukee Bucks,Toronto Raptors,W,99,47,25,17,85,54,20,22,1
+0022400221,2024-11-13,Oklahoma City Thunder,New Orleans Pelicans,W,106,31,20,7,88,58,21,24,1
+0022400217,2024-11-13,Orlando Magic,Indiana Pacers,W,94,50,26,17,90,41,22,17,1
+0022400226,2024-11-13,Portland Trail Blazers,Minnesota Timberwolves,W,106,47,17,20,98,41,16,14,1
+0022400219,2024-11-13,New York Knicks,Chicago Bulls,L,123,40,31,15,124,40,31,18,0
+0022400218,2024-11-13,Brooklyn Nets,Boston Celtics,L,114,34,26,13,139,45,35,8,0
+0022400220,2024-11-13,Philadelphia 76ers,Cleveland Cavaliers,L,106,45,24,12,114,46,25,11,0
+0022400224,2024-11-13,San Antonio Spurs,Washington Wizards,W,139,39,38,9,130,41,27,18,1
+0022400227,2024-11-13,Sacramento Kings,Phoenix Suns,W,127,45,38,17,104,40,23,10,1
+0022400222,2024-11-13,Houston Rockets,LA Clippers,W,111,59,28,14,103,42,27,12,1
+0022400225,2024-11-13,Los Angeles Lakers,Memphis Grizzlies,W,128,42,31,18,123,41,28,14,1
+0022400223,2024-11-13,Milwaukee Bucks,Detroit Pistons,W,127,47,26,12,120,45,29,15,1
+0022400228,2024-11-14,Utah Jazz,Dallas Mavericks,W,115,40,25,20,113,30,25,17,1
+0022400014,2024-11-15,New York Knicks,Brooklyn Nets,W,124,45,25,13,122,37,27,9,1
+0022400019,2024-11-15,Golden State Warriors,Memphis Grizzlies,W,123,56,33,19,118,54,22,15,1
+0022400020,2024-11-15,Sacramento Kings,Minnesota Timberwolves,L,126,51,21,13,130,41,26,11,0
+0022400013,2024-11-15,Cleveland Cavaliers,Chicago Bulls,W,144,40,33,13,126,36,32,17,1
+0022400016,2024-11-15,Houston Rockets,LA Clippers,W,125,48,31,12,104,51,12,15,1
+0022400010,2024-11-15,Orlando Magic,Philadelphia 76ers,W,98,43,15,18,86,34,19,18,1
+0022400018,2024-11-15,Oklahoma City Thunder,Phoenix Suns,W,99,53,21,11,83,50,17,17,1
+0022400017,2024-11-15,New Orleans Pelicans,Denver Nuggets,W,101,56,21,15,94,38,26,8,1
+0022400015,2024-11-15,San Antonio Spurs,Los Angeles Lakers,L,115,40,32,13,120,41,27,12,0
+0022400011,2024-11-15,Toronto Raptors,Detroit Pistons,L,95,53,21,15,99,56,24,14,0
+0022400012,2024-11-15,Atlanta Hawks,Washington Wizards,W,129,55,28,16,117,52,28,16,1
+0022400009,2024-11-15,Indiana Pacers,Miami Heat,L,111,39,28,20,124,36,27,10,0
+0022400230,2024-11-16,Boston Celtics,Toronto Raptors,W,126,42,30,9,123,46,35,9,1
+0022400232,2024-11-16,Dallas Mavericks,San Antonio Spurs,W,110,53,26,15,93,45,21,12,1
+0022400231,2024-11-16,New Orleans Pelicans,Los Angeles Lakers,L,99,50,24,17,104,43,24,11,0
+0022400233,2024-11-16,Sacramento Kings,Utah Jazz,W,121,35,24,14,117,33,16,16,1
+0022400229,2024-11-16,Charlotte Hornets,Milwaukee Bucks,W,115,53,25,10,114,40,31,9,1
+0022400236,2024-11-17,Cleveland Cavaliers,Charlotte Hornets,W,128,48,26,20,114,40,34,10,1
+0022400239,2024-11-17,Portland Trail Blazers,Atlanta Hawks,W,114,40,31,20,110,47,30,27,1
+0022400237,2024-11-17,Washington Wizards,Detroit Pistons,L,104,39,21,17,124,51,27,9,0
+0022400235,2024-11-17,Indiana Pacers,Miami Heat,W,119,45,30,11,110,38,21,11,1
+0022400238,2024-11-17,Memphis Grizzlies,Denver Nuggets,W,105,45,31,13,90,39,23,15,1
+0022400234,2024-11-17,Minnesota Timberwolves,Phoenix Suns,W,120,32,27,14,117,41,29,21,1
+0022400243,2024-11-17,LA Clippers,Utah Jazz,W,116,41,30,9,105,41,24,19,1
+0022400240,2024-11-17,New York Knicks,Brooklyn Nets,W,114,47,33,8,104,35,31,9,1
+0022400242,2024-11-17,Oklahoma City Thunder,Dallas Mavericks,L,119,29,29,8,121,53,18,16,0
+0022400241,2024-11-17,Chicago Bulls,Houston Rockets,L,107,47,26,15,143,66,34,11,0
+0022400247,2024-11-18,Toronto Raptors,Indiana Pacers,W,130,46,27,23,119,32,29,11,1
+0022400245,2024-11-18,Miami Heat,Philadelphia 76ers,W,106,53,26,15,89,42,25,15,1
+0022400248,2024-11-18,Milwaukee Bucks,Houston Rockets,W,101,43,21,16,100,53,19,13,1
+0022400246,2024-11-18,New York Knicks,Washington Wizards,W,134,41,37,8,106,41,23,10,1
+0022400250,2024-11-18,Sacramento Kings,Atlanta Hawks,L,108,45,24,17,109,37,34,14,0
+0022400251,2024-11-18,LA Clippers,Golden State Warriors,W,102,44,29,20,99,45,27,19,1
+0022400244,2024-11-18,Detroit Pistons,Chicago Bulls,L,112,48,27,9,122,46,28,11,0
+0022400249,2024-11-18,Phoenix Suns,Orlando Magic,L,99,45,25,13,109,38,28,11,0
+0022400025,2024-11-19,San Antonio Spurs,Oklahoma City Thunder,W,110,46,32,21,104,47,24,14,1
+0022400021,2024-11-19,Boston Celtics,Cleveland Cavaliers,W,120,42,32,13,117,41,30,7,1
+0022400022,2024-11-19,Brooklyn Nets,Charlotte Hornets,W,116,36,31,15,115,44,25,23,1
+0022400023,2024-11-19,Memphis Grizzlies,Denver Nuggets,L,110,55,24,22,122,53,29,19,0
+0022400026,2024-11-19,Los Angeles Lakers,Utah Jazz,W,124,34,30,14,118,42,28,16,1
+0022400024,2024-11-19,Dallas Mavericks,New Orleans Pelicans,W,132,48,26,12,91,37,19,21,1
+0022400253,2024-11-20,Milwaukee Bucks,Chicago Bulls,W,122,45,30,12,106,33,25,14,1
+0022400254,2024-11-20,Houston Rockets,Indiana Pacers,W,130,47,25,14,113,36,19,23,1
+0022400256,2024-11-20,Oklahoma City Thunder,Portland Trail Blazers,W,109,46,24,14,99,49,18,24,1
+0022400257,2024-11-20,Phoenix Suns,New York Knicks,L,122,34,30,14,138,41,30,15,0
+0022400258,2024-11-20,Golden State Warriors,Atlanta Hawks,W,120,54,36,15,97,65,27,17,1
+0022400259,2024-11-20,LA Clippers,Orlando Magic,W,104,49,22,25,93,24,21,14,1
+0022400255,2024-11-20,Memphis Grizzlies,Philadelphia 76ers,W,117,41,29,20,111,41,21,14,1
+0022400252,2024-11-20,Cleveland Cavaliers,New Orleans Pelicans,W,128,52,29,14,100,40,23,11,1
+0022400263,2024-11-21,Los Angeles Lakers,Orlando Magic,L,118,36,21,10,119,48,31,17,0
+0022400261,2024-11-21,Toronto Raptors,Minnesota Timberwolves,W,110,43,22,17,105,40,16,17,1
+0022400262,2024-11-21,San Antonio Spurs,Utah Jazz,W,126,51,32,11,118,49,22,14,1
+0022400260,2024-11-21,Charlotte Hornets,Detroit Pistons,W,123,43,23,16,121,56,30,19,1
+0022400028,2024-11-22,Washington Wizards,Boston Celtics,L,96,48,19,20,108,43,22,12,0
+0022400030,2024-11-22,Chicago Bulls,Atlanta Hawks,W,136,41,36,19,122,42,32,11,1
+0022400027,2024-11-22,Philadelphia 76ers,Brooklyn Nets,W,113,40,25,12,98,34,28,19,1
+0022400034,2024-11-22,LA Clippers,Sacramento Kings,W,104,54,27,12,88,48,19,15,1
+0022400033,2024-11-22,Denver Nuggets,Dallas Mavericks,L,120,42,33,15,123,44,24,13,0
+0022400029,2024-11-22,Milwaukee Bucks,Indiana Pacers,W,129,44,33,18,117,46,30,16,1
+0022400032,2024-11-22,New Orleans Pelicans,Golden State Warriors,L,108,43,28,10,112,52,27,17,0
+0022400031,2024-11-22,Houston Rockets,Portland Trail Blazers,W,116,51,27,17,88,45,17,21,1
+0022400266,2024-11-23,Chicago Bulls,Memphis Grizzlies,L,131,35,29,11,142,49,38,14,0
+0022400268,2024-11-23,Milwaukee Bucks,Charlotte Hornets,W,125,51,20,14,119,48,22,10,1
+0022400265,2024-11-23,Orlando Magic,Detroit Pistons,W,111,44,25,15,100,34,16,17,1
+0022400267,2024-11-23,Houston Rockets,Portland Trail Blazers,L,98,43,17,10,104,53,16,18,0
+0022400270,2024-11-23,Los Angeles Lakers,Denver Nuggets,L,102,32,27,15,127,48,37,18,0
+0022400264,2024-11-23,Utah Jazz,New York Knicks,W,121,52,30,18,106,40,25,9,1
+0022400269,2024-11-23,San Antonio Spurs,Golden State Warriors,W,104,48,29,9,94,49,29,10,1
+0022400273,2024-11-24,Miami Heat,Dallas Mavericks,W,123,57,27,9,118,59,29,14,1
+0022400272,2024-11-24,Indiana Pacers,Washington Wizards,W,115,45,31,12,103,41,24,17,1
+0022400274,2024-11-24,Philadelphia 76ers,LA Clippers,L,99,33,22,14,125,44,31,17,0
+0022400276,2024-11-24,Sacramento Kings,Brooklyn Nets,L,103,44,21,16,108,31,24,14,0
+0022400275,2024-11-24,Cleveland Cavaliers,Toronto Raptors,W,122,49,27,14,108,55,22,16,1
+0022400271,2024-11-24,Boston Celtics,Minnesota Timberwolves,W,107,40,25,7,105,49,19,8,1
+0022400277,2024-11-25,Charlotte Hornets,Orlando Magic,L,84,52,14,27,95,39,21,8,0
+0022400278,2024-11-25,Detroit Pistons,Toronto Raptors,W,102,38,27,14,100,50,26,10,1
+0022400280,2024-11-25,Atlanta Hawks,Dallas Mavericks,L,119,39,32,14,129,51,24,18,0
+0022400282,2024-11-25,Memphis Grizzlies,Portland Trail Blazers,W,123,60,35,19,98,44,22,11,1
+0022400279,2024-11-25,Indiana Pacers,New Orleans Pelicans,W,114,41,30,15,110,44,35,15,1
+0022400281,2024-11-25,Boston Celtics,LA Clippers,W,126,47,33,11,94,44,18,14,1
+0022400283,2024-11-25,Denver Nuggets,New York Knicks,L,118,33,23,11,145,43,45,11,0
+0022400285,2024-11-25,Sacramento Kings,Oklahoma City Thunder,L,109,31,24,12,130,44,28,15,0
+0022400284,2024-11-25,Golden State Warriors,Brooklyn Nets,L,120,43,32,13,128,42,23,12,0
+0022400035,2024-11-26,Washington Wizards,Chicago Bulls,L,108,43,27,14,127,50,29,11,0
+0022400036,2024-11-26,Miami Heat,Milwaukee Bucks,L,103,38,26,8,106,41,23,13,0
+0022400039,2024-11-26,Phoenix Suns,Los Angeles Lakers,W,127,46,31,9,100,42,25,12,1
+0022400038,2024-11-26,Utah Jazz,San Antonio Spurs,L,115,41,24,21,128,39,30,10,0
+0022400037,2024-11-26,Minnesota Timberwolves,Houston Rockets,L,111,52,21,17,117,44,31,12,0
+0022400291,2024-11-27,Washington Wizards,LA Clippers,L,96,40,21,20,121,47,27,16,0
+0022400287,2024-11-27,Cleveland Cavaliers,Atlanta Hawks,L,124,44,31,13,135,51,39,15,0
+0022400286,2024-11-27,Charlotte Hornets,Miami Heat,L,94,43,22,13,98,44,21,22,0
+0022400288,2024-11-27,Indiana Pacers,Portland Trail Blazers,W,121,47,27,12,114,38,31,14,1
+0022400299,2024-11-27,Golden State Warriors,Oklahoma City Thunder,L,101,57,25,16,105,48,26,14,0
+0022400297,2024-11-27,Phoenix Suns,Brooklyn Nets,L,117,37,25,17,127,36,32,13,0
+0022400298,2024-11-27,Utah Jazz,Denver Nuggets,L,103,47,25,19,122,39,30,11,0
+0022400292,2024-11-27,Dallas Mavericks,New York Knicks,W,129,43,27,13,114,33,20,9,1
+0022400295,2024-11-27,New Orleans Pelicans,Toronto Raptors,L,93,47,24,17,119,52,38,16,0
+0022400289,2024-11-27,Orlando Magic,Chicago Bulls,W,133,39,30,13,119,37,30,18,1
+0022400290,2024-11-27,Philadelphia 76ers,Houston Rockets,L,115,42,19,16,122,51,23,21,0
+0022400296,2024-11-27,San Antonio Spurs,Los Angeles Lakers,L,101,38,26,15,119,46,31,13,0
+0022400294,2024-11-27,Minnesota Timberwolves,Sacramento Kings,L,104,33,25,15,115,47,28,17,0
+0022400293,2024-11-27,Memphis Grizzlies,Detroit Pistons,W,131,42,31,17,111,42,24,20,1
+0022400042,2024-11-29,Memphis Grizzlies,New Orleans Pelicans,W,120,51,36,16,109,46,16,15,1
+0022400049,2024-11-29,Portland Trail Blazers,Sacramento Kings,W,115,40,27,12,106,41,29,20,1
+0022400048,2024-11-29,Los Angeles Lakers,Oklahoma City Thunder,L,93,47,25,17,101,47,20,10,0
+0022400047,2024-11-29,Chicago Bulls,Boston Celtics,L,129,43,28,8,138,51,24,9,0
+0022400045,2024-11-29,Indiana Pacers,Detroit Pistons,L,106,32,23,16,130,44,35,18,0
+0022400046,2024-11-29,Miami Heat,Toronto Raptors,W,121,33,32,10,111,46,34,19,1
+0022400044,2024-11-29,Minnesota Timberwolves,LA Clippers,W,93,49,25,22,92,39,20,15,1
+0022400043,2024-11-29,Brooklyn Nets,Orlando Magic,L,100,35,22,20,123,40,29,17,0
+0022400041,2024-11-29,Atlanta Hawks,Cleveland Cavaliers,W,117,53,33,21,101,40,21,13,1
+0022400040,2024-11-29,Charlotte Hornets,New York Knicks,L,98,39,25,15,99,44,20,21,0
+0022400300,2024-11-30,Charlotte Hornets,Atlanta Hawks,L,104,45,23,15,107,49,27,22,0
+0022400304,2024-11-30,Utah Jazz,Dallas Mavericks,L,94,53,20,15,106,48,30,15,0
+0022400303,2024-11-30,Phoenix Suns,Golden State Warriors,W,113,45,31,14,105,43,28,9,1
+0022400302,2024-11-30,Milwaukee Bucks,Washington Wizards,W,124,38,31,12,114,41,24,12,1
+0022400301,2024-11-30,Detroit Pistons,Philadelphia 76ers,L,96,42,22,17,111,50,19,17,0
+0022400310,2024-12-01,Houston Rockets,Oklahoma City Thunder,W,119,51,20,10,116,46,30,7,1
+0022400311,2024-12-01,Utah Jazz,Los Angeles Lakers,L,104,44,27,15,105,42,23,5,0
+0022400312,2024-12-01,Portland Trail Blazers,Dallas Mavericks,L,131,39,29,21,137,33,33,13,0
+0022400313,2024-12-01,Sacramento Kings,San Antonio Spurs,L,125,51,32,10,127,38,32,16,0
+0022400307,2024-12-01,Cleveland Cavaliers,Boston Celtics,W,115,44,22,18,111,46,17,11,1
+0022400305,2024-12-01,Brooklyn Nets,Orlando Magic,L,92,33,19,17,100,52,23,22,0
+0022400306,2024-12-01,Memphis Grizzlies,Indiana Pacers,W,136,40,36,10,121,41,28,15,1
+0022400308,2024-12-01,New York Knicks,New Orleans Pelicans,W,118,60,30,17,85,42,20,14,1
+0022400309,2024-12-01,Toronto Raptors,Miami Heat,W,119,47,30,16,116,45,25,14,1
+0022400314,2024-12-01,LA Clippers,Denver Nuggets,W,126,42,28,14,122,39,37,14,1
+0022400315,2024-12-02,Atlanta Hawks,New Orleans Pelicans,W,124,51,30,18,112,41,21,16,1
+0022400317,2024-12-02,Chicago Bulls,Brooklyn Nets,W,128,54,33,17,102,41,24,13,1
+0022400318,2024-12-02,Minnesota Timberwolves,Los Angeles Lakers,W,109,43,31,15,80,39,19,21,1
+0022400316,2024-12-02,Boston Celtics,Miami Heat,W,108,54,25,17,89,44,24,10,1
+0022400057,2024-12-03,Phoenix Suns,San Antonio Spurs,W,104,44,26,14,93,53,26,14,1
+0022400056,2024-12-03,Dallas Mavericks,Memphis Grizzlies,W,121,49,24,25,116,39,27,19,1
+0022400053,2024-12-03,New York Knicks,Orlando Magic,W,121,39,30,19,106,38,20,16,1
+0022400055,2024-12-03,Oklahoma City Thunder,Utah Jazz,W,133,34,32,8,106,36,21,29,1
+0022400050,2024-12-03,Charlotte Hornets,Philadelphia 76ers,L,104,47,22,19,110,31,26,12,0
+0022400051,2024-12-03,Cleveland Cavaliers,Washington Wizards,W,118,45,31,11,87,52,18,21,1
+0022400054,2024-12-03,Toronto Raptors,Indiana Pacers,W,122,42,28,21,111,34,21,21,1
+0022400058,2024-12-03,Denver Nuggets,Golden State Warriors,W,119,38,32,15,115,48,36,15,1
+0022400059,2024-12-03,Sacramento Kings,Houston Rockets,W,120,34,33,10,111,53,14,16,1
+0022400060,2024-12-03,LA Clippers,Portland Trail Blazers,W,127,35,29,14,105,29,25,18,1
+0022400052,2024-12-03,Detroit Pistons,Milwaukee Bucks,L,107,41,22,18,128,36,26,18,0
+0022400321,2024-12-04,Miami Heat,Los Angeles Lakers,W,134,52,42,16,93,36,29,13,1
+0022400319,2024-12-04,Boston Celtics,Detroit Pistons,W,130,43,30,16,120,34,27,19,1
+0022400320,2024-12-04,Brooklyn Nets,Indiana Pacers,W,99,43,24,17,90,39,20,16,1
+0022400322,2024-12-04,Philadelphia 76ers,Orlando Magic,L,102,35,23,14,106,42,21,14,0
+0022400324,2024-12-04,LA Clippers,Minnesota Timberwolves,L,80,46,13,23,108,50,31,15,0
+0022400323,2024-12-04,Milwaukee Bucks,Atlanta Hawks,L,104,40,23,18,119,54,29,14,0
+0022400325,2024-12-05,Cleveland Cavaliers,Denver Nuggets,W,126,47,32,17,114,49,25,16,1
+0022400326,2024-12-05,Washington Wizards,Dallas Mavericks,L,101,39,25,12,137,58,27,16,0
+0022400327,2024-12-05,New York Knicks,Charlotte Hornets,W,125,43,29,9,101,40,27,11,1
+0022400330,2024-12-05,New Orleans Pelicans,Phoenix Suns,W,126,44,23,13,124,46,32,17,1
+0022400329,2024-12-05,Memphis Grizzlies,Sacramento Kings,W,115,49,27,22,110,46,19,13,1
+0022400328,2024-12-05,Toronto Raptors,Oklahoma City Thunder,L,92,51,24,20,129,55,28,6,0
+0022400332,2024-12-05,Golden State Warriors,Houston Rockets,W,99,54,19,10,93,45,20,8,1
+0022400331,2024-12-05,San Antonio Spurs,Chicago Bulls,L,124,41,26,11,139,50,36,19,0
+0022400333,2024-12-06,Philadelphia 76ers,Orlando Magic,W,102,37,23,16,94,38,21,21,1
+0022400339,2024-12-06,Portland Trail Blazers,Utah Jazz,L,99,34,23,11,141,61,34,14,0
+0022400335,2024-12-06,Boston Celtics,Milwaukee Bucks,W,111,41,27,6,105,51,16,9,1
+0022400336,2024-12-06,Chicago Bulls,Indiana Pacers,L,123,38,33,12,132,46,33,13,0
+0022400338,2024-12-06,Golden State Warriors,Minnesota Timberwolves,L,90,41,21,22,107,48,32,21,0
+0022400337,2024-12-06,San Antonio Spurs,Sacramento Kings,L,113,42,28,14,140,44,33,11,0
+0022400334,2024-12-06,Atlanta Hawks,Los Angeles Lakers,W,134,48,40,17,132,40,33,15,1
+0022400345,2024-12-07,Boston Celtics,Memphis Grizzlies,L,121,51,26,13,127,52,25,13,0
+0022400344,2024-12-07,Toronto Raptors,Dallas Mavericks,L,118,39,37,13,125,52,21,18,0
+0022400340,2024-12-07,Charlotte Hornets,Cleveland Cavaliers,L,102,37,21,11,116,47,28,12,0
+0022400342,2024-12-07,New Orleans Pelicans,Oklahoma City Thunder,L,109,35,25,18,119,45,27,20,0
+0022400343,2024-12-07,New York Knicks,Detroit Pistons,L,111,31,27,15,120,43,28,19,0
+0022400341,2024-12-07,Washington Wizards,Denver Nuggets,W,122,46,31,17,113,48,34,15,1
+0022400346,2024-12-07,Miami Heat,Phoenix Suns,W,121,41,30,12,111,41,29,14,1
+0022400353,2024-12-08,Washington Wizards,Memphis Grizzlies,L,112,52,20,21,140,46,34,18,0
+0022400349,2024-12-08,Indiana Pacers,Charlotte Hornets,L,109,29,23,17,113,45,24,25,0
+0022400347,2024-12-08,Chicago Bulls,Philadelphia 76ers,L,100,35,29,15,108,56,25,16,0
+0022400358,2024-12-08,Los Angeles Lakers,Portland Trail Blazers,W,107,40,25,11,98,49,17,18,1
+0022400355,2024-12-08,Golden State Warriors,Minnesota Timberwolves,W,114,45,28,13,106,39,22,16,1
+0022400356,2024-12-08,LA Clippers,Houston Rockets,L,106,33,21,8,117,50,23,15,0
+0022400348,2024-12-08,Brooklyn Nets,Milwaukee Bucks,L,113,30,24,13,118,31,26,16,0
+0022400351,2024-12-08,Miami Heat,Cleveland Cavaliers,W,122,47,27,12,113,36,25,9,1
+0022400350,2024-12-08,Atlanta Hawks,Denver Nuggets,L,111,45,26,12,141,43,43,20,0
+0022400352,2024-12-08,Orlando Magic,Phoenix Suns,W,115,44,17,13,110,39,24,21,1
+0022400354,2024-12-08,San Antonio Spurs,New Orleans Pelicans,W,121,55,27,13,116,43,26,8,1
+0022400357,2024-12-08,Sacramento Kings,Utah Jazz,W,141,43,39,8,97,38,21,20,1
+0022400359,2024-12-09,Toronto Raptors,New York Knicks,L,108,51,23,13,113,40,32,10,0
+0022401203,2024-12-10,Oklahoma City Thunder,Dallas Mavericks,W,118,52,29,14,104,44,25,19,1
+0022401201,2024-12-10,Milwaukee Bucks,Orlando Magic,W,114,37,27,16,109,46,19,14,1
+0022401204,2024-12-11,Houston Rockets,Golden State Warriors,W,91,36,23,17,90,39,22,22,1
+0022401202,2024-12-11,New York Knicks,Atlanta Hawks,L,100,49,27,15,108,58,27,11,0
+0022401206,2024-12-12,Miami Heat,Toronto Raptors,W,114,52,21,17,104,42,29,12,1
+0022401205,2024-12-12,Boston Celtics,Detroit Pistons,W,123,51,34,14,99,43,27,8,1
+0022401207,2024-12-12,New Orleans Pelicans,Sacramento Kings,L,109,43,22,17,111,50,24,11,0
+0022401210,2024-12-13,Minnesota Timberwolves,Los Angeles Lakers,W,97,48,18,14,87,53,17,22,1
+0022401215,2024-12-13,Portland Trail Blazers,San Antonio Spurs,L,116,36,25,16,118,41,32,15,0
+0022401208,2024-12-13,Cleveland Cavaliers,Washington Wizards,W,115,50,27,11,105,44,24,18,1
+0022401209,2024-12-13,Philadelphia 76ers,Indiana Pacers,L,107,47,18,15,121,41,35,10,0
+0022401213,2024-12-13,Denver Nuggets,LA Clippers,W,120,46,23,22,98,31,24,19,1
+0022401212,2024-12-13,Chicago Bulls,Charlotte Hornets,W,109,52,27,16,95,54,22,17,1
+0022401211,2024-12-13,Memphis Grizzlies,Brooklyn Nets,W,135,49,33,13,119,41,30,18,1
+0022401214,2024-12-13,Utah Jazz,Phoenix Suns,L,126,34,30,15,134,37,36,8,0
+0022401216,2024-12-15,Indiana Pacers,New Orleans Pelicans,W,119,43,33,17,104,49,18,18,1
+0022401218,2024-12-15,San Antonio Spurs,Minnesota Timberwolves,L,92,50,34,19,106,51,26,12,0
+0022401219,2024-12-15,Phoenix Suns,Portland Trail Blazers,W,116,46,23,11,109,48,30,13,1
+0022401228,2024-12-15,Golden State Warriors,Dallas Mavericks,L,133,37,39,10,143,47,36,16,0
+0022401220,2024-12-15,Los Angeles Lakers,Memphis Grizzlies,W,116,44,23,23,110,50,25,21,1
+0022401227,2024-12-15,Orlando Magic,New York Knicks,L,91,39,24,15,100,45,20,19,0
+0022401217,2024-12-15,Washington Wizards,Boston Celtics,L,98,51,22,16,112,56,26,18,0
+0022401221,2024-12-16,Detroit Pistons,Miami Heat,W,125,52,32,22,124,44,30,13,1
+0022401223,2024-12-16,Toronto Raptors,Chicago Bulls,L,121,44,28,18,122,41,33,12,0
+0022401225,2024-12-16,Sacramento Kings,Denver Nuggets,L,129,42,28,11,130,55,38,15,0
+0022401226,2024-12-16,LA Clippers,Utah Jazz,W,144,41,28,16,107,35,22,23,1
+0022401224,2024-12-16,Brooklyn Nets,Cleveland Cavaliers,L,101,35,25,22,130,42,33,17,0
+0022401222,2024-12-16,Charlotte Hornets,Philadelphia 76ers,L,108,38,30,20,121,42,21,20,0
+0022400367,2024-12-19,Minnesota Timberwolves,New York Knicks,L,107,37,29,13,133,57,39,15,0
+0022400363,2024-12-19,Boston Celtics,Chicago Bulls,L,108,45,21,4,117,56,23,12,0
+0022400368,2024-12-19,Dallas Mavericks,LA Clippers,L,95,40,21,13,118,47,30,15,0
+0022400370,2024-12-19,San Antonio Spurs,Atlanta Hawks,W,133,42,32,17,126,53,32,23,1
+0022400362,2024-12-19,Washington Wizards,Charlotte Hornets,W,123,52,33,18,114,52,30,8,1
+0022400364,2024-12-19,Toronto Raptors,Brooklyn Nets,L,94,34,26,12,101,53,18,17,0
+0022400361,2024-12-19,Orlando Magic,Oklahoma City Thunder,L,99,40,25,20,105,32,23,13,0
+0022400365,2024-12-19,Houston Rockets,New Orleans Pelicans,W,133,42,34,12,113,37,25,12,1
+0022400366,2024-12-19,Memphis Grizzlies,Golden State Warriors,W,144,60,38,17,93,36,20,18,1
+0022400360,2024-12-19,Detroit Pistons,Utah Jazz,L,119,39,26,10,126,62,23,27,0
+0022400371,2024-12-19,Portland Trail Blazers,Denver Nuggets,W,126,45,29,10,124,40,35,11,1
+0022400369,2024-12-19,Phoenix Suns,Indiana Pacers,L,111,44,28,16,120,47,30,9,0
+0022400372,2024-12-19,Sacramento Kings,Los Angeles Lakers,L,100,43,27,16,113,53,22,13,0
+0022400373,2024-12-20,Philadelphia 76ers,Charlotte Hornets,W,108,39,30,15,98,44,22,17,1
+0022400374,2024-12-20,Cleveland Cavaliers,Milwaukee Bucks,W,124,48,30,18,101,45,23,20,1
+0022400375,2024-12-20,Miami Heat,Oklahoma City Thunder,L,97,41,20,19,104,48,24,14,0
+0022400377,2024-12-21,Orlando Magic,Miami Heat,W,121,41,24,13,114,38,16,15,1
+0022400386,2024-12-21,San Antonio Spurs,Portland Trail Blazers,W,114,49,33,12,94,44,21,13,1
+0022400387,2024-12-21,Phoenix Suns,Detroit Pistons,L,125,35,30,19,133,35,31,13,0
+0022400381,2024-12-21,Chicago Bulls,Boston Celtics,L,98,43,28,13,123,59,27,12,0
+0022400382,2024-12-21,Milwaukee Bucks,Washington Wizards,W,112,44,35,13,101,47,20,19,1
+0022400378,2024-12-21,Atlanta Hawks,Memphis Grizzlies,L,112,41,29,25,128,40,35,18,0
+0022400383,2024-12-21,Minnesota Timberwolves,Golden State Warriors,L,103,45,27,15,113,45,30,11,0
+0022400385,2024-12-21,Dallas Mavericks,LA Clippers,W,113,43,25,13,97,40,18,17,1
+0022400384,2024-12-21,New Orleans Pelicans,New York Knicks,L,93,45,23,19,104,42,24,17,0
+0022400380,2024-12-21,Cleveland Cavaliers,Philadelphia 76ers,W,126,49,31,13,99,41,13,13,1
+0022400379,2024-12-21,Brooklyn Nets,Utah Jazz,L,94,50,24,19,105,45,25,18,0
+0022400376,2024-12-21,Sacramento Kings,Los Angeles Lakers,L,99,46,25,14,103,48,23,14,0
+0022400388,2024-12-22,Toronto Raptors,Houston Rockets,L,110,42,33,21,114,53,18,21,0
+0022400390,2024-12-22,New Orleans Pelicans,Denver Nuggets,L,129,43,37,15,132,54,34,22,0
+0022400389,2024-12-22,Sacramento Kings,Indiana Pacers,L,95,47,21,10,122,50,36,12,0
+0022400394,2024-12-23,Philadelphia 76ers,San Antonio Spurs,W,111,47,22,11,106,42,24,18,1
+0022400395,2024-12-23,Atlanta Hawks,Minnesota Timberwolves,W,117,38,27,23,104,43,31,21,1
+0022400391,2024-12-23,Charlotte Hornets,Houston Rockets,L,101,44,25,11,114,60,23,12,0
+0022400392,2024-12-23,Cleveland Cavaliers,Utah Jazz,W,124,40,33,9,113,51,27,17,1
+0022400397,2024-12-23,New York Knicks,Toronto Raptors,W,139,35,34,17,125,30,28,15,1
+0022400398,2024-12-23,Chicago Bulls,Milwaukee Bucks,L,91,46,27,15,112,49,24,13,0
+0022400401,2024-12-23,Dallas Mavericks,Portland Trail Blazers,W,132,41,27,11,108,48,23,19,1
+0022400393,2024-12-23,Orlando Magic,Boston Celtics,W,108,42,26,20,104,41,13,19,1
+0022400396,2024-12-23,Miami Heat,Brooklyn Nets,W,110,44,27,16,95,42,23,15,1
+0022400400,2024-12-23,Oklahoma City Thunder,Washington Wizards,W,123,59,25,12,105,51,25,19,1
+0022400399,2024-12-23,Memphis Grizzlies,LA Clippers,L,110,56,26,20,114,53,22,17,0
+0022400403,2024-12-23,Golden State Warriors,Indiana Pacers,L,105,44,29,11,111,43,26,12,0
+0022400402,2024-12-23,Denver Nuggets,Phoenix Suns,W,117,46,35,12,90,39,23,15,1
+0022400404,2024-12-23,Los Angeles Lakers,Detroit Pistons,L,114,38,28,20,117,37,24,12,0
+0022400405,2024-12-25,New York Knicks,San Antonio Spurs,W,117,47,26,5,114,45,33,15,1
+0022400406,2024-12-25,Dallas Mavericks,Minnesota Timberwolves,L,99,43,15,13,105,46,23,10,0
+0022400408,2024-12-25,Golden State Warriors,Los Angeles Lakers,L,113,44,26,13,115,41,30,9,0
+0022400409,2024-12-25,Phoenix Suns,Denver Nuggets,W,110,42,31,9,100,46,20,16,1
+0022400407,2024-12-25,Boston Celtics,Philadelphia 76ers,L,114,51,24,13,118,39,28,6,0
+0022400414,2024-12-26,Memphis Grizzlies,Toronto Raptors,W,155,63,36,18,126,40,39,15,1
+0022400416,2024-12-26,New Orleans Pelicans,Houston Rockets,L,111,44,29,16,128,54,19,16,0
+0022400417,2024-12-26,Portland Trail Blazers,Utah Jazz,W,122,43,26,11,120,46,26,13,1
+0022400418,2024-12-26,Sacramento Kings,Detroit Pistons,L,113,44,20,14,114,44,25,10,0
+0022400413,2024-12-26,Atlanta Hawks,Chicago Bulls,W,141,44,32,14,133,36,36,16,1
+0022400412,2024-12-26,Washington Wizards,Charlotte Hornets,W,113,43,25,11,110,50,31,19,1
+0022400410,2024-12-26,Indiana Pacers,Oklahoma City Thunder,L,114,51,28,11,120,45,20,3,0
+0022400415,2024-12-26,Milwaukee Bucks,Brooklyn Nets,L,105,39,23,23,111,38,25,21,0
+0022400411,2024-12-26,Orlando Magic,Miami Heat,L,88,42,14,23,89,35,21,21,0
+0022400422,2024-12-27,Houston Rockets,Minnesota Timberwolves,L,112,47,19,14,113,40,25,16,0
+0022400419,2024-12-27,Orlando Magic,New York Knicks,L,85,33,20,17,108,44,18,18,0
+0022400420,2024-12-27,Boston Celtics,Indiana Pacers,W,142,52,31,10,105,39,27,12,1
+0022400421,2024-12-27,Brooklyn Nets,San Antonio Spurs,L,87,45,22,18,96,43,26,15,0
+0022400423,2024-12-27,New Orleans Pelicans,Memphis Grizzlies,L,124,45,30,17,132,42,30,17,0
+0022400424,2024-12-27,Denver Nuggets,Cleveland Cavaliers,L,135,38,39,13,149,38,40,11,0
+0022400425,2024-12-27,Phoenix Suns,Dallas Mavericks,L,89,42,23,16,98,41,24,15,0
+0022400426,2024-12-27,LA Clippers,Golden State Warriors,W,102,39,19,23,92,47,24,14,1
+0022400428,2024-12-28,Charlotte Hornets,Oklahoma City Thunder,L,94,44,17,18,106,49,29,17,0
+0022400435,2024-12-28,Los Angeles Lakers,Sacramento Kings,W,132,33,33,11,122,39,38,10,1
+0022400434,2024-12-28,Portland Trail Blazers,Dallas Mavericks,W,126,50,27,14,122,40,20,13,1
+0022400433,2024-12-28,Utah Jazz,Philadelphia 76ers,L,111,48,27,22,114,32,22,8,0
+0022400430,2024-12-28,Chicago Bulls,Milwaukee Bucks,W,116,52,33,11,111,43,27,8,1
+0022400432,2024-12-28,Denver Nuggets,Detroit Pistons,W,134,40,29,14,121,41,29,12,1
+0022400431,2024-12-28,Golden State Warriors,Phoenix Suns,W,109,49,26,12,105,46,21,14,1
+0022400429,2024-12-28,Washington Wizards,New York Knicks,L,132,44,32,17,136,43,26,15,0
+0022400427,2024-12-28,Atlanta Hawks,Miami Heat,W,120,47,34,13,110,42,23,9,1
+0022400436,2024-12-29,Orlando Magic,Brooklyn Nets,W,102,42,30,13,101,38,22,17,1
+0022400437,2024-12-29,Boston Celtics,Indiana Pacers,L,114,41,26,8,123,50,27,9,0
+0022400440,2024-12-29,Oklahoma City Thunder,Memphis Grizzlies,W,130,45,35,10,106,51,30,21,1
+0022400439,2024-12-29,Houston Rockets,Miami Heat,L,100,52,24,13,104,52,21,15,0
+0022400441,2024-12-29,Minnesota Timberwolves,San Antonio Spurs,W,112,56,23,10,110,41,25,10,1
+0022400438,2024-12-29,Toronto Raptors,Atlanta Hawks,L,107,52,26,31,136,40,30,15,0
+0022400443,2024-12-30,Washington Wizards,New York Knicks,L,106,46,25,13,126,54,34,8,0
+0022400446,2024-12-30,Golden State Warriors,Cleveland Cavaliers,L,95,55,20,15,113,54,25,16,0
+0022400442,2024-12-30,Charlotte Hornets,Chicago Bulls,L,108,56,23,14,115,63,31,15,0
+0022400448,2024-12-30,Sacramento Kings,Dallas Mavericks,W,110,58,25,16,100,36,17,18,1
+0022400445,2024-12-30,Utah Jazz,Denver Nuggets,L,121,37,28,16,132,51,38,7,0
+0022400444,2024-12-30,New Orleans Pelicans,LA Clippers,L,113,35,30,16,116,40,24,17,0
+0022400447,2024-12-30,Portland Trail Blazers,Philadelphia 76ers,L,103,33,23,26,125,32,20,19,0
+0022400454,2024-12-31,Los Angeles Lakers,Cleveland Cavaliers,L,110,43,26,9,122,48,32,11,0
+0022400452,2024-12-31,Oklahoma City Thunder,Minnesota Timberwolves,W,113,37,25,12,105,43,21,24,1
+0022400449,2024-12-31,Boston Celtics,Toronto Raptors,W,125,49,29,13,71,44,18,21,1
+0022400451,2024-12-31,San Antonio Spurs,LA Clippers,W,122,58,37,9,86,41,17,14,1
+0022400453,2024-12-31,Phoenix Suns,Memphis Grizzlies,L,112,43,28,17,117,51,27,17,0
+0022400450,2024-12-31,Indiana Pacers,Milwaukee Bucks,L,112,50,26,18,120,51,27,12,0
+0022400455,2025-01-01,Detroit Pistons,Orlando Magic,W,105,49,25,24,96,33,18,13,1
+0022400459,2025-01-01,Toronto Raptors,Brooklyn Nets,W,130,39,36,11,113,32,28,13,1
+0022400457,2025-01-01,Miami Heat,New Orleans Pelicans,W,119,38,34,13,108,31,25,11,1
+0022400458,2025-01-01,New York Knicks,Utah Jazz,W,119,47,31,13,103,45,23,17,1
+0022400456,2025-01-01,Washington Wizards,Chicago Bulls,W,125,42,36,17,107,44,28,20,1
+0022400460,2025-01-01,Houston Rockets,Dallas Mavericks,W,110,35,16,14,99,38,19,20,1
+0022400461,2025-01-01,Denver Nuggets,Atlanta Hawks,W,139,43,44,13,120,44,34,14,1
+0022400462,2025-01-01,Sacramento Kings,Philadelphia 76ers,W,113,45,24,17,107,34,24,19,1
+0022400467,2025-01-02,Golden State Warriors,Philadelphia 76ers,W,139,43,41,12,105,33,17,11,1
+0022400468,2025-01-02,Los Angeles Lakers,Portland Trail Blazers,W,114,43,30,13,106,42,24,18,1
+0022400465,2025-01-02,Milwaukee Bucks,Brooklyn Nets,L,110,46,21,14,113,51,26,14,0
+0022400466,2025-01-02,Oklahoma City Thunder,LA Clippers,W,116,35,29,10,98,45,25,20,1
+0022400463,2025-01-02,Miami Heat,Indiana Pacers,L,115,39,34,16,128,39,35,8,0
+0022400464,2025-01-02,Minnesota Timberwolves,Boston Celtics,L,115,41,24,16,118,31,30,4,0
+0022400470,2025-01-03,Toronto Raptors,Orlando Magic,L,97,37,28,11,106,42,32,14,0
+0022400473,2025-01-03,Oklahoma City Thunder,New York Knicks,W,117,41,27,13,107,42,22,12,1
+0022400472,2025-01-03,New Orleans Pelicans,Washington Wizards,W,132,37,36,8,120,48,28,21,1
+0022400469,2025-01-03,Detroit Pistons,Charlotte Hornets,W,98,51,21,15,94,45,25,18,1
+0022400471,2025-01-03,Houston Rockets,Boston Celtics,L,86,37,9,14,109,41,20,14,0
+0022400475,2025-01-03,Denver Nuggets,San Antonio Spurs,L,110,46,33,8,113,56,31,13,0
+0022400474,2025-01-03,Dallas Mavericks,Cleveland Cavaliers,L,122,53,29,12,134,46,38,8,0
+0022400477,2025-01-03,Los Angeles Lakers,Atlanta Hawks,W,119,56,28,19,102,39,22,8,1
+0022400476,2025-01-03,Sacramento Kings,Memphis Grizzlies,W,138,37,32,10,133,51,31,17,1
+0022400478,2025-01-04,Brooklyn Nets,Philadelphia 76ers,L,94,39,22,22,123,50,31,18,0
+0022400485,2025-01-04,Golden State Warriors,Memphis Grizzlies,W,121,29,32,18,113,43,29,23,1
+0022400482,2025-01-04,Chicago Bulls,New York Knicks,W,139,43,36,13,126,49,27,13,1
+0022400484,2025-01-04,San Antonio Spurs,Denver Nuggets,L,111,58,28,14,122,58,32,7,0
+0022400481,2025-01-04,Miami Heat,Utah Jazz,L,100,32,25,15,136,57,31,14,0
+0022400483,2025-01-04,Milwaukee Bucks,Portland Trail Blazers,L,102,43,25,11,105,55,21,18,0
+0022400479,2025-01-04,Detroit Pistons,Minnesota Timberwolves,W,119,47,26,14,105,33,20,17,1
+0022400486,2025-01-04,LA Clippers,Atlanta Hawks,W,131,48,36,17,105,43,30,23,1
+0022400480,2025-01-04,Indiana Pacers,Phoenix Suns,W,126,47,35,8,108,36,30,13,1
+0022400490,2025-01-05,Orlando Magic,Utah Jazz,L,92,43,25,11,105,50,21,22,0
+0022400491,2025-01-05,Houston Rockets,Los Angeles Lakers,W,119,49,19,6,115,39,26,10,1
+0022400492,2025-01-05,Golden State Warriors,Sacramento Kings,L,99,35,22,22,129,43,31,16,0
+0022400489,2025-01-05,Washington Wizards,New Orleans Pelicans,L,98,46,25,16,110,49,26,12,0
+0022400488,2025-01-05,Cleveland Cavaliers,Charlotte Hornets,W,115,41,29,12,105,48,19,16,1
+0022400487,2025-01-05,Oklahoma City Thunder,Boston Celtics,W,105,46,22,16,92,48,17,16,1
+0022400495,2025-01-06,Brooklyn Nets,Indiana Pacers,L,99,51,23,14,113,35,22,12,0
+0022400493,2025-01-06,Detroit Pistons,Portland Trail Blazers,W,118,45,23,15,115,38,32,16,1
+0022400498,2025-01-06,Chicago Bulls,San Antonio Spurs,W,114,47,25,13,110,49,31,17,1
+0022400499,2025-01-06,Memphis Grizzlies,Dallas Mavericks,W,119,55,24,15,104,50,25,15,1
+0022400496,2025-01-06,New York Knicks,Orlando Magic,L,94,38,16,12,103,39,23,12,0
+0022400497,2025-01-06,Toronto Raptors,Milwaukee Bucks,L,104,35,27,15,128,46,37,21,0
+0022400494,2025-01-06,Philadelphia 76ers,Phoenix Suns,L,99,46,20,10,109,44,32,12,0
+0022400501,2025-01-06,Sacramento Kings,Miami Heat,W,123,60,30,15,118,53,25,14,1
+0022400500,2025-01-06,Minnesota Timberwolves,LA Clippers,W,108,55,24,15,106,49,23,13,1
+0022400508,2025-01-07,Golden State Warriors,Miami Heat,L,98,52,28,12,114,48,32,10,0
+0022400507,2025-01-07,Denver Nuggets,Boston Celtics,L,106,39,22,16,118,41,30,12,0
+0022400506,2025-01-07,Utah Jazz,Atlanta Hawks,L,121,47,25,16,124,44,35,10,0
+0022400505,2025-01-07,New Orleans Pelicans,Minnesota Timberwolves,L,97,46,23,14,104,53,26,17,0
+0022400502,2025-01-07,Charlotte Hornets,Phoenix Suns,W,115,59,23,14,104,42,27,11,1
+0022400503,2025-01-07,Washington Wizards,Houston Rockets,L,112,43,21,18,135,49,31,10,0
+0022400504,2025-01-07,Dallas Mavericks,Los Angeles Lakers,W,118,44,29,13,97,33,20,10,1
+0022400509,2025-01-08,Cleveland Cavaliers,Oklahoma City Thunder,W,129,40,36,15,122,38,35,13,1
+0022400511,2025-01-08,New York Knicks,Toronto Raptors,W,112,43,24,16,98,33,25,17,1
+0022400512,2025-01-08,Philadelphia 76ers,Washington Wizards,W,109,36,21,9,103,51,26,18,1
+0022400510,2025-01-08,Indiana Pacers,Chicago Bulls,W,129,46,37,13,113,39,23,18,1
+0022400513,2025-01-08,Brooklyn Nets,Detroit Pistons,L,98,38,24,15,113,42,30,15,0
+0022400514,2025-01-08,New Orleans Pelicans,Portland Trail Blazers,L,100,41,19,19,119,44,24,15,0
+0022400515,2025-01-08,Denver Nuggets,LA Clippers,W,126,45,29,12,103,40,14,12,1
+0022400516,2025-01-08,Milwaukee Bucks,San Antonio Spurs,W,121,57,26,11,105,46,24,9,1
+0022400517,2025-01-09,Cleveland Cavaliers,Toronto Raptors,W,132,42,31,11,126,37,34,13,1
+0022400518,2025-01-09,Detroit Pistons,Golden State Warriors,L,104,40,25,15,107,49,32,15,0
+0022400519,2025-01-09,Orlando Magic,Minnesota Timberwolves,L,89,47,21,16,104,50,21,10,0
+0022400521,2025-01-09,Dallas Mavericks,Portland Trail Blazers,W,117,53,26,14,111,43,24,13,1
+0022400523,2025-01-09,Utah Jazz,Miami Heat,L,92,49,20,17,97,49,26,14,0
+0022400522,2025-01-09,Phoenix Suns,Atlanta Hawks,W,123,42,33,16,115,32,32,11,1
+0022400520,2025-01-09,Memphis Grizzlies,Houston Rockets,L,115,43,20,20,119,44,21,13,0
+0022400527,2025-01-10,Philadelphia 76ers,New Orleans Pelicans,L,115,42,23,9,123,44,31,12,0
+0022400530,2025-01-10,Chicago Bulls,Washington Wizards,W,138,55,39,15,105,45,26,16,1
+0022400531,2025-01-10,Denver Nuggets,Brooklyn Nets,W,124,49,34,15,105,39,26,17,1
+0022400525,2025-01-10,Indiana Pacers,Golden State Warriors,W,108,48,27,15,96,42,25,14,1
+0022400526,2025-01-10,Orlando Magic,Milwaukee Bucks,L,106,44,20,11,109,43,18,13,0
+0022400528,2025-01-10,Boston Celtics,Sacramento Kings,L,97,43,22,15,114,56,26,12,0
+0022400529,2025-01-10,New York Knicks,Oklahoma City Thunder,L,101,43,18,12,126,46,20,15,0
+0022400533,2025-01-11,Phoenix Suns,Utah Jazz,W,114,38,26,11,106,50,26,13,1
+0022400534,2025-01-11,Detroit Pistons,Toronto Raptors,W,123,46,35,17,114,45,27,12,1
+0022400535,2025-01-11,Minnesota Timberwolves,Memphis Grizzlies,L,125,41,37,19,127,46,25,13,0
+0022400536,2025-01-11,Portland Trail Blazers,Miami Heat,L,98,51,24,17,119,43,31,11,0
+0022400547,2025-01-12,Phoenix Suns,Charlotte Hornets,W,120,39,31,12,113,52,30,16,1
+0022400543,2025-01-12,Cleveland Cavaliers,Indiana Pacers,L,93,44,24,13,108,50,30,12,0
+0022400540,2025-01-12,Dallas Mavericks,Denver Nuggets,L,101,37,27,12,112,55,23,14,0
+0022400545,2025-01-12,Washington Wizards,Oklahoma City Thunder,L,95,39,20,18,136,56,26,13,0
+0022400546,2025-01-12,Utah Jazz,Brooklyn Nets,W,112,41,25,11,111,54,26,11,1
+0022400542,2025-01-12,Boston Celtics,New Orleans Pelicans,W,120,55,23,12,119,42,24,10,1
+0022400544,2025-01-12,Orlando Magic,Philadelphia 76ers,W,104,41,23,17,99,29,17,18,1
+0022400541,2025-01-12,Chicago Bulls,Sacramento Kings,L,119,45,26,8,124,53,33,8,0
+0022400539,2025-01-12,New York Knicks,Milwaukee Bucks,W,140,49,29,12,106,39,22,14,1
+0022400548,2025-01-13,Washington Wizards,Minnesota Timberwolves,L,106,34,27,11,120,53,20,19,0
+0022400549,2025-01-13,New York Knicks,Detroit Pistons,L,119,42,26,18,124,39,20,13,0
+0022400553,2025-01-13,LA Clippers,Miami Heat,W,109,48,28,12,98,49,22,16,1
+0022400552,2025-01-13,Los Angeles Lakers,San Antonio Spurs,L,102,40,24,19,126,41,30,11,0
+0022400551,2025-01-13,Houston Rockets,Memphis Grizzlies,W,120,40,28,23,118,31,15,18,1
+0022400550,2025-01-13,Toronto Raptors,Golden State Warriors,W,104,44,28,15,101,46,23,15,1
+0022400556,2025-01-14,Atlanta Hawks,Phoenix Suns,W,122,54,22,14,117,37,28,13,1
+0022400554,2025-01-14,Indiana Pacers,Cleveland Cavaliers,L,117,37,30,14,127,49,25,15,0
+0022400555,2025-01-14,Philadelphia 76ers,Oklahoma City Thunder,L,102,35,23,22,118,38,32,18,0
+0022400558,2025-01-14,Milwaukee Bucks,Sacramento Kings,W,130,52,32,9,115,45,25,9,1
+0022400557,2025-01-14,Chicago Bulls,New Orleans Pelicans,L,113,57,31,15,119,46,32,10,0
+0022400559,2025-01-14,Dallas Mavericks,Denver Nuggets,L,99,30,27,12,118,51,28,20,0
+0022400560,2025-01-14,Portland Trail Blazers,Brooklyn Nets,L,114,38,20,17,132,44,36,13,0
+0022400567,2025-01-15,San Antonio Spurs,Memphis Grizzlies,L,115,44,22,11,129,52,28,8,0
+0022400568,2025-01-15,Denver Nuggets,Houston Rockets,L,108,36,22,20,128,40,28,11,0
+0022400571,2025-01-15,LA Clippers,Brooklyn Nets,W,126,46,26,16,67,39,15,22,1
+0022400563,2025-01-15,Chicago Bulls,Atlanta Hawks,L,94,53,23,20,110,51,28,11,0
+0022400565,2025-01-15,Minnesota Timberwolves,Golden State Warriors,L,115,41,21,9,116,45,26,13,0
+0022400570,2025-01-15,Los Angeles Lakers,Miami Heat,W,117,34,33,7,108,37,25,20,1
+0022400569,2025-01-15,Utah Jazz,Charlotte Hornets,L,112,36,30,12,117,45,27,18,0
+0022400566,2025-01-15,New Orleans Pelicans,Dallas Mavericks,W,119,49,24,10,116,45,27,17,1
+0022400561,2025-01-15,Philadelphia 76ers,New York Knicks,L,119,35,27,12,125,45,28,16,0
+0022400562,2025-01-15,Toronto Raptors,Boston Celtics,W,110,56,35,11,97,45,24,9,1
+0022400564,2025-01-15,Milwaukee Bucks,Orlando Magic,W,122,49,24,21,93,32,24,13,1
+0022400576,2025-01-16,Sacramento Kings,Houston Rockets,W,132,44,32,12,127,46,24,14,1
+0022400575,2025-01-16,Portland Trail Blazers,LA Clippers,L,89,37,24,16,118,50,23,18,0
+0022400574,2025-01-16,Oklahoma City Thunder,Cleveland Cavaliers,W,134,39,25,7,114,49,32,21,1
+0022400573,2025-01-16,Washington Wizards,Phoenix Suns,L,123,45,28,13,130,47,33,16,0
+0022400572,2025-01-16,Detroit Pistons,Indiana Pacers,L,100,55,22,19,111,40,28,10,0
+0022400578,2025-01-17,New York Knicks,Minnesota Timberwolves,L,99,41,19,9,116,46,23,16,0
+0022400580,2025-01-17,Milwaukee Bucks,Toronto Raptors,W,130,44,25,14,112,43,31,14,1
+0022400583,2025-01-17,Dallas Mavericks,Oklahoma City Thunder,W,106,43,25,17,98,46,24,15,1
+0022400582,2025-01-17,San Antonio Spurs,Memphis Grizzlies,L,112,40,29,17,140,41,39,9,0
+0022400585,2025-01-17,Los Angeles Lakers,Brooklyn Nets,W,102,34,24,10,101,45,28,17,1
+0022400581,2025-01-17,New Orleans Pelicans,Utah Jazz,W,136,56,34,13,123,40,30,16,1
+0022400584,2025-01-17,Chicago Bulls,Charlotte Hornets,L,123,45,34,14,125,44,26,12,0
+0022400579,2025-01-17,Miami Heat,Denver Nuggets,L,113,41,30,8,133,41,35,6,0
+0022400577,2025-01-17,Boston Celtics,Orlando Magic,W,121,41,25,10,94,37,15,12,1
+0022400590,2025-01-18,Minnesota Timberwolves,Cleveland Cavaliers,L,117,42,27,8,124,47,27,8,0
+0022400591,2025-01-18,Portland Trail Blazers,Houston Rockets,L,103,40,28,19,125,61,25,14,0
+0022400589,2025-01-18,Golden State Warriors,Washington Wizards,W,122,55,24,10,114,44,24,14,1
+0022400586,2025-01-18,Detroit Pistons,Phoenix Suns,L,121,43,22,9,125,50,25,10,0
+0022400588,2025-01-18,Indiana Pacers,Philadelphia 76ers,W,115,50,30,18,102,32,21,9,1
+0022400587,2025-01-18,Boston Celtics,Atlanta Hawks,L,115,53,23,14,119,55,27,18,0
+0022400592,2025-01-19,Miami Heat,San Antonio Spurs,W,128,49,35,11,107,44,28,15,1
+0022400593,2025-01-19,Orlando Magic,Denver Nuggets,L,100,39,30,7,113,57,24,21,0
+0022400597,2025-01-19,Portland Trail Blazers,Chicago Bulls,W,113,50,21,18,102,36,21,16,1
+0022400598,2025-01-19,Sacramento Kings,Washington Wizards,W,123,51,28,12,100,46,19,17,1
+0022400596,2025-01-19,LA Clippers,Los Angeles Lakers,W,116,38,27,13,102,33,26,17,1
+0022400595,2025-01-19,Oklahoma City Thunder,Brooklyn Nets,W,127,43,37,12,101,41,25,17,1
+0022400594,2025-01-19,Milwaukee Bucks,Philadelphia 76ers,W,123,48,31,7,109,38,26,9,1
+0022400605,2025-01-20,New Orleans Pelicans,Utah Jazz,W,123,45,28,14,119,63,25,14,1
+0022400601,2025-01-20,Memphis Grizzlies,Minnesota Timberwolves,W,108,47,19,13,106,52,25,16,1
+0022400602,2025-01-20,New York Knicks,Atlanta Hawks,W,119,39,31,16,110,41,23,24,1
+0022400604,2025-01-20,Golden State Warriors,Boston Celtics,L,85,38,28,12,125,50,33,10,0
+0022400611,2025-01-20,LA Clippers,Chicago Bulls,L,99,40,24,10,112,54,25,12,0
+0022400603,2025-01-20,Cleveland Cavaliers,Phoenix Suns,W,118,50,27,9,92,34,22,17,1
+0022400599,2025-01-20,Charlotte Hornets,Dallas Mavericks,W,110,49,28,13,105,51,19,14,1
+0022400600,2025-01-20,Houston Rockets,Detroit Pistons,L,96,39,19,17,107,52,21,23,0
+0022400608,2025-01-21,Toronto Raptors,Orlando Magic,W,109,42,29,12,93,48,16,14,1
+0022400610,2025-01-21,Los Angeles Lakers,Washington Wizards,W,111,50,30,11,88,46,25,13,1
+0022400607,2025-01-21,Miami Heat,Portland Trail Blazers,L,107,45,26,10,116,47,25,8,0
+0022400609,2025-01-21,Denver Nuggets,Philadelphia 76ers,W,144,51,39,14,109,25,34,10,1
+0022400606,2025-01-21,Brooklyn Nets,New York Knicks,L,95,47,21,17,99,42,29,12,0
+0022400615,2025-01-22,Houston Rockets,Cleveland Cavaliers,W,109,53,25,22,108,45,25,13,1
+0022400618,2025-01-22,Oklahoma City Thunder,Utah Jazz,W,123,39,20,11,114,52,25,27,1
+0022400619,2025-01-22,Sacramento Kings,Golden State Warriors,W,123,38,24,8,117,44,31,19,1
+0022400620,2025-01-22,LA Clippers,Boston Celtics,L,113,40,24,23,117,32,24,19,0
+0022400616,2025-01-22,Memphis Grizzlies,Charlotte Hornets,W,132,40,36,16,120,33,27,16,1
+0022400614,2025-01-22,Dallas Mavericks,Minnesota Timberwolves,L,114,38,24,15,115,39,26,11,0
+0022400612,2025-01-22,Atlanta Hawks,Detroit Pistons,L,104,47,25,14,114,51,27,21,0
+0022400613,2025-01-22,Brooklyn Nets,Phoenix Suns,L,84,52,16,17,108,48,28,11,0
+0022400629,2025-01-23,Los Angeles Lakers,Boston Celtics,W,117,53,27,10,96,42,23,7,1
+0022400626,2025-01-23,Denver Nuggets,Sacramento Kings,W,132,56,30,11,123,53,31,13,1
+0022400624,2025-01-23,Milwaukee Bucks,Miami Heat,W,125,55,32,7,96,50,26,11,1
+0022400625,2025-01-23,Oklahoma City Thunder,Dallas Mavericks,L,115,33,26,13,121,43,25,20,0
+0022400622,2025-01-23,Orlando Magic,Portland Trail Blazers,L,79,44,17,22,101,42,23,15,0
+0022400623,2025-01-23,Atlanta Hawks,Toronto Raptors,L,119,36,30,15,122,39,32,20,0
+0022400983,2025-01-23,LA Clippers,Washington Wizards,W,110,55,29,18,93,49,24,16,1
+0022400628,2025-01-23,Golden State Warriors,Chicago Bulls,W,131,52,37,12,106,42,22,13,1
+0022400631,2025-01-24,Philadelphia 76ers,Cleveland Cavaliers,W,132,43,23,18,129,37,30,16,1
+0022400630,2025-01-24,Charlotte Hornets,Portland Trail Blazers,L,97,46,20,16,102,47,17,17,0
+0022400632,2025-01-24,Memphis Grizzlies,New Orleans Pelicans,W,139,43,38,13,126,35,30,13,1
+0022400646,2025-01-25,LA Clippers,Milwaukee Bucks,W,127,47,19,7,117,42,24,13,1
+0022400635,2025-01-25,Dallas Mavericks,Boston Celtics,L,107,49,18,13,122,51,33,5,0
+0022400645,2025-01-25,Phoenix Suns,Washington Wizards,W,119,53,23,11,109,37,28,8,1
+0022400644,2025-01-25,Golden State Warriors,Los Angeles Lakers,L,108,38,30,14,118,42,29,13,0
+0022400643,2025-01-25,Memphis Grizzlies,Utah Jazz,W,125,45,28,17,103,40,27,17,1
+0022400642,2025-01-25,Chicago Bulls,Philadelphia 76ers,L,97,54,24,20,109,40,23,10,0
+0022400640,2025-01-25,Cleveland Cavaliers,Houston Rockets,L,131,40,28,11,135,45,26,11,0
+0022400641,2025-01-25,New York Knicks,Sacramento Kings,W,143,53,40,11,120,38,33,12,1
+0022400639,2025-01-25,Atlanta Hawks,Toronto Raptors,L,94,43,28,24,117,51,31,21,0
+0022400638,2025-01-25,Orlando Magic,Detroit Pistons,W,121,40,22,15,113,41,22,16,1
+0022400637,2025-01-25,Charlotte Hornets,New Orleans Pelicans,W,123,48,28,15,92,39,21,13,1
+0022400636,2025-01-25,Brooklyn Nets,Miami Heat,L,97,35,23,15,106,51,22,22,0
+0022400634,2025-01-25,Minnesota Timberwolves,Denver Nuggets,W,133,45,38,16,104,36,32,20,1
+0022400647,2025-01-26,Portland Trail Blazers,Oklahoma City Thunder,L,108,44,21,15,118,43,24,9,0
+0022400655,2025-01-27,Chicago Bulls,Denver Nuggets,W,129,47,35,17,121,42,36,15,1
+0022400652,2025-01-27,Miami Heat,Orlando Magic,W,125,43,34,18,119,47,32,15,1
+0022400649,2025-01-27,Cleveland Cavaliers,Detroit Pistons,W,110,53,28,10,91,45,24,10,1
+0022400656,2025-01-27,Minnesota Timberwolves,Atlanta Hawks,W,100,51,18,18,92,51,24,22,1
+0022400657,2025-01-27,Dallas Mavericks,Washington Wizards,W,130,51,39,12,108,45,23,11,1
+0022400653,2025-01-27,New York Knicks,Memphis Grizzlies,W,143,46,32,11,106,47,21,26,1
+0022400651,2025-01-27,Brooklyn Nets,Sacramento Kings,L,96,39,19,16,110,44,31,18,0
+0022400654,2025-01-27,Toronto Raptors,New Orleans Pelicans,W,113,54,31,13,104,46,21,13,1
+0022400650,2025-01-27,Boston Celtics,Houston Rockets,L,112,41,21,15,114,39,29,8,0
+0022400659,2025-01-27,Phoenix Suns,LA Clippers,W,111,39,23,17,109,42,22,15,1
+0022400658,2025-01-27,Utah Jazz,Milwaukee Bucks,L,110,46,28,11,125,46,33,12,0
+0022400648,2025-01-27,Charlotte Hornets,Los Angeles Lakers,L,107,34,26,14,112,48,22,19,0
+0022400660,2025-01-28,Philadelphia 76ers,Los Angeles Lakers,W,118,43,20,9,104,39,25,22,1
+0022400532,2025-01-28,Atlanta Hawks,Houston Rockets,L,96,40,19,18,100,44,19,21,0
+0022400662,2025-01-28,Portland Trail Blazers,Milwaukee Bucks,W,125,52,26,15,112,36,26,11,1
+0022400661,2025-01-28,Golden State Warriors,Utah Jazz,W,114,47,29,9,103,39,30,15,1
+0022400671,2025-01-29,San Antonio Spurs,LA Clippers,L,116,30,27,10,128,57,26,17,0
+0022400666,2025-01-29,Boston Celtics,Chicago Bulls,W,122,45,32,9,100,47,28,15,1
+0022400663,2025-01-29,Charlotte Hornets,Brooklyn Nets,L,83,52,18,17,104,40,27,11,0
+0022400668,2025-01-29,New York Knicks,Denver Nuggets,W,122,35,33,6,112,47,21,14,1
+0022400669,2025-01-29,Philadelphia 76ers,Sacramento Kings,W,117,35,30,10,104,46,34,12,1
+0022400665,2025-01-29,Washington Wizards,Toronto Raptors,L,82,43,17,27,106,36,31,14,0
+0022400664,2025-01-29,Indiana Pacers,Detroit Pistons,W,133,36,28,13,119,41,26,15,1
+0022400672,2025-01-29,Phoenix Suns,Minnesota Timberwolves,L,113,36,30,16,121,34,26,16,0
+0022400673,2025-01-29,Golden State Warriors,Oklahoma City Thunder,W,116,42,30,15,109,50,21,14,1
+0022400670,2025-01-29,New Orleans Pelicans,Dallas Mavericks,L,136,36,31,8,137,51,30,19,0
+0022400667,2025-01-29,Miami Heat,Cleveland Cavaliers,L,106,35,27,14,126,47,29,7,0
+0022400677,2025-01-30,Utah Jazz,Minnesota Timberwolves,L,113,23,21,15,138,39,38,13,0
+0022400678,2025-01-30,Portland Trail Blazers,Orlando Magic,W,119,38,23,14,90,33,14,16,1
+0022400676,2025-01-30,Memphis Grizzlies,Houston Rockets,W,120,37,23,11,119,45,22,12,1
+0022400675,2025-01-30,Cleveland Cavaliers,Atlanta Hawks,W,137,49,34,12,115,36,28,11,1
+0022400674,2025-01-30,Washington Wizards,Los Angeles Lakers,L,96,38,18,15,134,48,31,11,0
+0022400685,2025-01-31,Golden State Warriors,Phoenix Suns,L,105,49,26,12,130,48,41,15,0
+0022400683,2025-01-31,New Orleans Pelicans,Boston Celtics,L,116,48,16,20,118,35,32,13,0
+0022400680,2025-01-31,Detroit Pistons,Dallas Mavericks,W,117,47,18,7,102,46,20,18,1
+0022400679,2025-01-31,Charlotte Hornets,LA Clippers,L,104,42,18,9,112,45,26,18,0
+0022400682,2025-01-31,Toronto Raptors,Chicago Bulls,L,106,44,27,7,122,52,34,11,0
+0022400681,2025-01-31,Philadelphia 76ers,Denver Nuggets,L,134,27,29,14,137,35,39,19,0
+0022400684,2025-01-31,San Antonio Spurs,Milwaukee Bucks,W,144,53,37,6,118,47,24,10,1
+0022400687,2025-02-01,Utah Jazz,Orlando Magic,W,113,51,26,16,99,43,19,8,1
+0022400694,2025-02-01,Portland Trail Blazers,Phoenix Suns,W,127,43,24,10,108,37,21,19,1
+0022400692,2025-02-01,New York Knicks,Los Angeles Lakers,L,112,44,33,14,128,37,26,15,0
+0022400689,2025-02-01,Houston Rockets,Brooklyn Nets,L,98,44,18,11,110,46,24,11,0
+0022400688,2025-02-01,Charlotte Hornets,Denver Nuggets,L,104,51,31,12,107,43,29,11,0
+0022400691,2025-02-01,Oklahoma City Thunder,Sacramento Kings,W,144,70,37,12,110,37,25,8,1
+0022400693,2025-02-01,San Antonio Spurs,Miami Heat,L,103,48,27,11,105,52,30,14,0
+0022400690,2025-02-01,Minnesota Timberwolves,Washington Wizards,L,103,47,29,16,105,44,26,17,0
+0022400686,2025-02-01,Indiana Pacers,Atlanta Hawks,W,132,41,35,12,127,44,31,13,1
+0022400698,2025-02-02,Philadelphia 76ers,Boston Celtics,L,110,46,20,10,118,38,34,9,0
+0022400697,2025-02-02,Toronto Raptors,LA Clippers,W,115,43,31,14,108,41,21,10,1
+0022400695,2025-02-02,Detroit Pistons,Chicago Bulls,W,127,42,38,11,119,44,28,20,1
+0022400696,2025-02-02,Cleveland Cavaliers,Dallas Mavericks,W,144,51,39,9,101,45,22,9,1
+0022400699,2025-02-02,Milwaukee Bucks,Memphis Grizzlies,L,119,36,32,13,132,61,37,12,0
+0022400700,2025-02-03,Charlotte Hornets,Washington Wizards,L,114,46,26,11,124,54,29,11,0
+0022400701,2025-02-03,Detroit Pistons,Atlanta Hawks,L,130,41,31,14,132,37,27,14,0
+0022400705,2025-02-03,Oklahoma City Thunder,Milwaukee Bucks,W,125,55,28,17,96,37,24,15,1
+0022400703,2025-02-03,Memphis Grizzlies,San Antonio Spurs,W,128,47,33,15,109,48,31,23,1
+0022400704,2025-02-03,Minnesota Timberwolves,Sacramento Kings,L,114,36,28,8,116,47,23,12,0
+0022400706,2025-02-03,Denver Nuggets,New Orleans Pelicans,W,125,46,28,6,113,41,27,10,1
+0022400707,2025-02-03,Utah Jazz,Indiana Pacers,L,111,60,31,19,112,37,32,9,0
+0022400709,2025-02-03,Portland Trail Blazers,Phoenix Suns,W,121,48,30,13,119,43,28,15,1
+0022400708,2025-02-03,Golden State Warriors,Orlando Magic,W,104,44,25,13,99,52,23,12,1
+0022400702,2025-02-03,New York Knicks,Houston Rockets,W,124,40,24,14,118,50,27,17,1
+0022400712,2025-02-04,Philadelphia 76ers,Dallas Mavericks,W,118,34,37,13,116,44,24,12,1
+0022400710,2025-02-04,Cleveland Cavaliers,Boston Celtics,L,105,51,18,13,112,53,26,12,0
+0022400713,2025-02-04,Toronto Raptors,New York Knicks,L,115,34,27,14,121,43,26,13,0
+0022400711,2025-02-04,Brooklyn Nets,Houston Rockets,W,99,39,26,14,97,45,23,18,1
+0022400714,2025-02-04,Chicago Bulls,Miami Heat,W,133,43,35,10,124,44,29,14,1
+0022400715,2025-02-04,LA Clippers,Los Angeles Lakers,L,97,36,30,10,122,50,33,15,0
+0022400716,2025-02-04,Portland Trail Blazers,Indiana Pacers,W,112,51,23,19,89,39,25,19,1
+0022400721,2025-02-05,Philadelphia 76ers,Miami Heat,L,101,39,22,5,108,54,25,22,0
+0022400722,2025-02-05,Toronto Raptors,Memphis Grizzlies,L,107,34,28,10,138,61,22,18,0
+0022400726,2025-02-05,Denver Nuggets,New Orleans Pelicans,W,144,51,40,9,119,38,26,11,1
+0022400718,2025-02-05,Detroit Pistons,Cleveland Cavaliers,L,115,45,22,12,118,46,28,24,0
+0022400725,2025-02-05,Utah Jazz,Golden State Warriors,W,131,48,30,13,128,41,33,9,1
+0022400723,2025-02-05,Minnesota Timberwolves,Chicago Bulls,W,127,59,27,11,108,34,25,11,1
+0022400724,2025-02-05,Oklahoma City Thunder,Phoenix Suns,W,140,46,24,6,109,35,24,22,1
+0022400727,2025-02-05,Sacramento Kings,Orlando Magic,L,111,37,23,19,130,35,30,11,0
+0022400720,2025-02-05,Brooklyn Nets,Washington Wizards,L,102,37,26,10,119,40,40,15,0
+0022400717,2025-02-05,Charlotte Hornets,Milwaukee Bucks,L,102,41,21,8,112,44,26,11,0
+0022400719,2025-02-05,Atlanta Hawks,San Antonio Spurs,L,125,45,33,20,126,41,36,10,0
+0022400731,2025-02-06,Los Angeles Lakers,Golden State Warriors,W,120,47,26,14,112,40,29,12,1
+0022400728,2025-02-06,Boston Celtics,Dallas Mavericks,L,120,40,30,14,127,35,32,11,0
+0022400729,2025-02-06,Minnesota Timberwolves,Houston Rockets,W,127,47,23,13,114,39,26,12,1
+0022400730,2025-02-06,Denver Nuggets,Orlando Magic,W,112,52,33,20,90,40,21,14,1
+0022400732,2025-02-06,Portland Trail Blazers,Sacramento Kings,W,108,47,25,13,102,47,21,11,1
+0022400733,2025-02-06,LA Clippers,Indiana Pacers,L,112,48,25,19,119,46,31,8,0
+0022400734,2025-02-07,Charlotte Hornets,San Antonio Spurs,W,117,53,33,11,116,38,25,8,1
+0022400737,2025-02-07,Brooklyn Nets,Miami Heat,W,102,57,17,14,86,39,23,14,1
+0022400738,2025-02-07,Detroit Pistons,Philadelphia 76ers,W,125,56,32,15,112,38,26,13,1
+0022400736,2025-02-07,Atlanta Hawks,Milwaukee Bucks,W,115,52,29,11,110,43,28,10,1
+0022400739,2025-02-07,Oklahoma City Thunder,Toronto Raptors,W,121,44,26,12,109,42,31,12,1
+0022400735,2025-02-07,Washington Wizards,Cleveland Cavaliers,L,124,40,25,15,134,46,32,14,0
+0022400740,2025-02-07,Phoenix Suns,Utah Jazz,W,135,49,31,8,127,63,29,12,1
+0022400746,2025-02-08,Memphis Grizzlies,Oklahoma City Thunder,L,112,40,21,13,125,55,29,9,0
+0022400749,2025-02-08,Phoenix Suns,Denver Nuggets,L,105,43,25,6,122,56,28,10,0
+0022400750,2025-02-08,Sacramento Kings,New Orleans Pelicans,W,123,51,24,18,118,39,27,16,1
+0022400751,2025-02-08,LA Clippers,Utah Jazz,W,130,37,36,15,110,38,26,20,1
+0022400744,2025-02-08,Washington Wizards,Atlanta Hawks,L,111,53,26,18,125,41,36,12,0
+0022400745,2025-02-08,Chicago Bulls,Golden State Warriors,L,111,31,24,17,132,44,34,15,0
+0022400742,2025-02-08,Los Angeles Lakers,Indiana Pacers,W,124,46,29,15,117,38,27,11,1
+0022400748,2025-02-08,New York Knicks,Boston Celtics,L,104,30,16,9,131,48,21,11,0
+0022400741,2025-02-08,Dallas Mavericks,Houston Rockets,W,116,43,22,6,105,48,21,9,1
+0022400743,2025-02-08,Orlando Magic,San Antonio Spurs,W,112,45,19,15,111,34,27,14,1
+0022400747,2025-02-08,Minnesota Timberwolves,Portland Trail Blazers,W,114,43,23,14,98,45,18,17,1
+0022400752,2025-02-09,Detroit Pistons,Charlotte Hornets,W,112,46,31,11,102,37,25,14,1
+0022400754,2025-02-09,Milwaukee Bucks,Philadelphia 76ers,W,135,53,29,12,127,42,28,14,1
+0022400753,2025-02-09,Houston Rockets,Toronto Raptors,W,94,58,17,15,87,48,19,10,1
+0022400768,2025-02-10,Los Angeles Lakers,Utah Jazz,W,132,44,28,13,113,39,29,19,1
+0022400763,2025-02-10,Denver Nuggets,Portland Trail Blazers,W,146,38,44,10,117,33,25,16,1
+0022400762,2025-02-10,Dallas Mavericks,Sacramento Kings,L,128,33,31,13,129,50,28,21,0
+0022400760,2025-02-10,Milwaukee Bucks,Golden State Warriors,L,111,37,18,20,125,48,27,9,0
+0022400759,2025-02-10,Miami Heat,Boston Celtics,L,85,51,21,4,103,52,24,8,0
+0022400761,2025-02-10,Oklahoma City Thunder,New Orleans Pelicans,W,137,45,29,11,101,42,19,23,1
+0022400756,2025-02-10,Orlando Magic,Atlanta Hawks,L,106,36,22,18,112,39,29,17,0
+0022400757,2025-02-10,Washington Wizards,San Antonio Spurs,L,121,42,26,14,131,43,28,12,0
+0022400755,2025-02-10,Cleveland Cavaliers,Minnesota Timberwolves,W,128,49,27,17,107,41,17,16,1
+0022400758,2025-02-10,Brooklyn Nets,Charlotte Hornets,W,97,47,24,17,89,40,18,18,1
+0022400767,2025-02-11,Phoenix Suns,Memphis Grizzlies,L,112,42,35,12,119,60,22,13,0
+0022400766,2025-02-11,Chicago Bulls,Detroit Pistons,L,92,44,22,16,132,55,30,15,0
+0022400765,2025-02-11,Indiana Pacers,New York Knicks,L,115,36,32,10,128,48,37,16,0
+0022400764,2025-02-11,Philadelphia 76ers,Toronto Raptors,L,103,46,22,14,106,49,23,19,0
+0022400783,2025-02-12,LA Clippers,Memphis Grizzlies,W,128,46,29,17,114,40,24,22,1
+0022400782,2025-02-12,Dallas Mavericks,Golden State Warriors,W,111,39,20,15,107,50,29,16,1
+0022400780,2025-02-12,Denver Nuggets,Portland Trail Blazers,W,132,49,26,14,121,45,27,12,1
+0022400779,2025-02-12,Houston Rockets,Phoenix Suns,W,119,47,32,11,111,43,25,18,1
+0022400773,2025-02-12,New York Knicks,Atlanta Hawks,W,149,39,28,18,148,47,43,14,1
+0022400781,2025-02-12,Utah Jazz,Los Angeles Lakers,W,131,48,30,12,119,45,31,14,1
+0022400770,2025-02-12,Orlando Magic,Charlotte Hornets,W,102,52,22,11,86,43,21,12,1
+0022400772,2025-02-12,Brooklyn Nets,Philadelphia 76ers,W,100,50,23,18,96,38,25,15,1
+0022400777,2025-02-12,New Orleans Pelicans,Sacramento Kings,L,111,40,28,9,119,48,28,11,0
+0022400775,2025-02-12,Chicago Bulls,Detroit Pistons,L,110,37,23,18,128,47,30,17,0
+0022400778,2025-02-12,Oklahoma City Thunder,Miami Heat,W,115,41,22,13,101,45,24,16,1
+0022400776,2025-02-12,Minnesota Timberwolves,Milwaukee Bucks,L,101,59,27,14,103,48,24,13,0
+0022400774,2025-02-12,Toronto Raptors,Cleveland Cavaliers,L,108,39,26,15,131,53,34,13,0
+0022400771,2025-02-12,Washington Wizards,Indiana Pacers,L,130,46,29,18,134,42,38,9,0
+0022400769,2025-02-12,Boston Celtics,San Antonio Spurs,W,116,56,25,17,103,38,30,8,1
+0022400784,2025-02-13,Houston Rockets,Golden State Warriors,L,98,52,24,20,105,42,26,11,0
+0022400785,2025-02-13,New Orleans Pelicans,Sacramento Kings,W,140,45,32,10,133,58,38,15,1
+0022400787,2025-02-13,Minnesota Timberwolves,Oklahoma City Thunder,W,116,54,28,10,101,49,25,10,1
+0022400786,2025-02-13,Dallas Mavericks,Miami Heat,W,118,40,28,14,113,42,23,13,1
+0022401004,2025-02-13,Utah Jazz,LA Clippers,L,116,47,23,26,120,43,22,12,0
+0022400524,2025-02-19,Los Angeles Lakers,Charlotte Hornets,L,97,50,29,18,100,47,20,19,0
+0022400795,2025-02-20,San Antonio Spurs,Phoenix Suns,W,120,44,30,11,109,39,28,18,1
+0022400796,2025-02-20,Portland Trail Blazers,Los Angeles Lakers,L,102,33,27,17,110,48,20,24,0
+0022400794,2025-02-20,Denver Nuggets,Charlotte Hornets,W,129,55,29,14,115,45,28,10,1
+0022400793,2025-02-20,Milwaukee Bucks,LA Clippers,W,116,41,22,18,110,43,28,14,1
+0022400792,2025-02-20,New York Knicks,Chicago Bulls,W,113,54,28,13,111,53,24,15,1
+0022400790,2025-02-20,Atlanta Hawks,Orlando Magic,L,108,51,20,9,114,53,15,8,0
+0022400791,2025-02-20,Brooklyn Nets,Cleveland Cavaliers,L,97,45,25,16,110,52,19,17,0
+0022400788,2025-02-20,Indiana Pacers,Memphis Grizzlies,W,127,46,29,11,113,46,28,13,1
+0022400789,2025-02-20,Philadelphia 76ers,Boston Celtics,L,104,44,23,10,124,49,33,11,0
+0022400804,2025-02-21,Utah Jazz,Oklahoma City Thunder,L,107,43,27,21,130,51,38,12,0
+0022400805,2025-02-21,Sacramento Kings,Golden State Warriors,L,108,39,26,24,132,35,40,12,0
+0022400801,2025-02-21,Houston Rockets,Minnesota Timberwolves,W,121,48,18,20,115,35,22,9,1
+0022400802,2025-02-21,San Antonio Spurs,Detroit Pistons,L,110,32,27,17,125,53,31,16,0
+0022400803,2025-02-21,Dallas Mavericks,New Orleans Pelicans,W,111,47,28,14,103,53,25,14,1
+0022400798,2025-02-21,Orlando Magic,Memphis Grizzlies,L,104,50,23,14,105,53,22,15,0
+0022400797,2025-02-21,Cleveland Cavaliers,New York Knicks,W,142,47,38,15,105,32,25,17,1
+0022400800,2025-02-21,Toronto Raptors,Miami Heat,L,111,46,25,14,120,44,20,14,0
+0022400799,2025-02-21,Washington Wizards,Milwaukee Bucks,L,101,42,25,14,104,44,24,17,0
+0022400806,2025-02-22,Chicago Bulls,Phoenix Suns,L,117,45,29,9,121,49,29,11,0
+0022400810,2025-02-22,Portland Trail Blazers,Charlotte Hornets,W,141,57,37,19,88,37,19,17,1
+0022400809,2025-02-22,Utah Jazz,Houston Rockets,W,124,58,28,8,115,41,33,7,1
+0022400808,2025-02-22,Denver Nuggets,Los Angeles Lakers,L,100,45,28,22,123,39,27,9,0
+0022400807,2025-02-22,Philadelphia 76ers,Brooklyn Nets,L,103,43,21,13,105,39,27,16,0
+0022400816,2025-02-23,Toronto Raptors,Phoenix Suns,W,127,49,30,14,109,37,22,12,1
+0022400812,2025-02-23,Golden State Warriors,Dallas Mavericks,W,126,54,30,10,102,41,24,18,1
+0022400817,2025-02-23,Milwaukee Bucks,Miami Heat,W,120,40,25,9,113,46,25,11,1
+0022400813,2025-02-23,Indiana Pacers,LA Clippers,W,129,46,31,14,111,32,23,11,1
+0022400814,2025-02-23,Atlanta Hawks,Detroit Pistons,L,143,40,30,13,148,37,39,19,0
+0022400815,2025-02-23,Orlando Magic,Washington Wizards,W,110,47,25,16,90,36,22,20,1
+0022400820,2025-02-23,Minnesota Timberwolves,Oklahoma City Thunder,L,123,44,23,13,130,37,32,13,0
+0022400819,2025-02-23,Cleveland Cavaliers,Memphis Grizzlies,W,129,57,25,14,123,37,28,14,1
+0022400818,2025-02-23,New Orleans Pelicans,San Antonio Spurs,W,114,69,27,17,96,46,29,10,1
+0022400811,2025-02-23,Boston Celtics,New York Knicks,W,118,49,27,12,105,40,21,11,1
+0022400822,2025-02-24,Indiana Pacers,Denver Nuggets,L,116,32,29,18,125,46,39,20,0
+0022400828,2025-02-24,Sacramento Kings,Charlotte Hornets,W,130,49,30,18,88,37,24,19,1
+0022400827,2025-02-24,Utah Jazz,Portland Trail Blazers,L,112,45,24,15,114,51,26,13,0
+0022400824,2025-02-24,Washington Wizards,Brooklyn Nets,W,107,37,26,24,99,39,25,18,1
+0022400826,2025-02-24,Oklahoma City Thunder,Minnesota Timberwolves,L,128,53,27,11,131,54,29,13,0
+0022400821,2025-02-24,Detroit Pistons,LA Clippers,W,106,46,22,16,97,48,24,17,1
+0022400825,2025-02-24,Atlanta Hawks,Miami Heat,W,98,50,29,18,86,45,15,18,1
+0022400823,2025-02-24,Philadelphia 76ers,Chicago Bulls,L,110,47,19,17,142,44,32,15,0
+0022400830,2025-02-25,Orlando Magic,Cleveland Cavaliers,L,82,35,21,12,122,47,25,12,0
+0022400829,2025-02-25,Toronto Raptors,Boston Celtics,L,101,40,27,17,111,39,24,15,0
+0022400833,2025-02-25,New Orleans Pelicans,San Antonio Spurs,W,109,54,25,19,103,45,29,20,1
+0022400832,2025-02-25,Memphis Grizzlies,Phoenix Suns,W,151,38,36,12,148,46,39,16,1
+0022400835,2025-02-25,Los Angeles Lakers,Dallas Mavericks,W,107,57,24,14,99,45,23,12,1
+0022400834,2025-02-25,Golden State Warriors,Charlotte Hornets,W,128,51,40,12,92,50,18,25,1
+0022400831,2025-02-25,Houston Rockets,Milwaukee Bucks,W,100,53,18,17,97,37,19,15,1
+0022400836,2025-02-26,Detroit Pistons,Boston Celtics,W,117,51,29,14,97,32,21,19,1
+0022400838,2025-02-26,New York Knicks,Philadelphia 76ers,W,110,43,22,16,105,35,21,13,1
+0022400841,2025-02-26,Miami Heat,Atlanta Hawks,W,131,35,39,17,109,33,29,17,1
+0022400837,2025-02-26,Indiana Pacers,Toronto Raptors,W,111,41,28,20,91,40,23,21,1
+0022400844,2025-02-26,Houston Rockets,San Antonio Spurs,W,118,60,22,16,106,41,28,8,1
+0022400843,2025-02-26,Utah Jazz,Sacramento Kings,L,101,34,32,10,118,47,28,16,0
+0022400840,2025-02-26,Brooklyn Nets,Oklahoma City Thunder,L,121,46,31,15,129,45,27,12,0
+0022400842,2025-02-26,Chicago Bulls,LA Clippers,L,117,41,35,17,122,44,33,15,0
+0022400839,2025-02-26,Washington Wizards,Portland Trail Blazers,L,121,41,25,19,129,46,27,17,0
+0022400847,2025-02-27,Dallas Mavericks,Charlotte Hornets,W,103,48,23,9,96,56,25,15,1
+0022400846,2025-02-27,Milwaukee Bucks,Denver Nuggets,W,121,48,25,11,112,55,28,13,1
+0022400849,2025-02-27,Los Angeles Lakers,Minnesota Timberwolves,W,111,52,21,13,102,41,25,12,1
+0022400845,2025-02-27,Orlando Magic,Golden State Warriors,L,115,46,23,18,121,38,26,14,0
+0022400848,2025-02-27,Phoenix Suns,New Orleans Pelicans,L,116,52,29,11,124,50,25,6,0
+0022400859,2025-02-28,Los Angeles Lakers,LA Clippers,W,106,39,19,15,102,44,25,18,1
+0022400858,2025-02-28,Utah Jazz,Minnesota Timberwolves,W,117,60,35,20,116,40,35,7,1
+0022400851,2025-02-28,Atlanta Hawks,Oklahoma City Thunder,L,119,46,27,19,135,43,37,12,0
+0022400855,2025-02-28,Chicago Bulls,Toronto Raptors,W,125,45,32,15,115,51,30,17,1
+0022400854,2025-02-28,Miami Heat,Indiana Pacers,W,125,39,34,15,120,30,35,10,1
+0022400853,2025-02-28,Brooklyn Nets,Portland Trail Blazers,L,102,45,20,21,121,36,31,22,0
+0022400852,2025-02-28,Boston Celtics,Cleveland Cavaliers,L,116,40,20,11,123,44,23,8,0
+0022400850,2025-02-28,Detroit Pistons,Denver Nuggets,L,119,42,32,11,134,50,28,20,0
+0022400857,2025-02-28,Phoenix Suns,New Orleans Pelicans,W,125,35,35,17,108,35,28,15,1
+0022400856,2025-02-28,Memphis Grizzlies,New York Knicks,L,113,58,26,19,114,35,29,9,0
+0022400860,2025-03-01,Charlotte Hornets,Washington Wizards,L,100,44,28,17,113,48,33,15,0
+0022400861,2025-03-01,Detroit Pistons,Brooklyn Nets,W,115,47,31,27,94,38,19,14,1
+0022400862,2025-03-01,Houston Rockets,Sacramento Kings,L,103,43,18,16,113,46,21,14,0
+0022400865,2025-03-01,Dallas Mavericks,Milwaukee Bucks,L,117,33,25,11,132,52,33,13,0
+0022400863,2025-03-01,Memphis Grizzlies,San Antonio Spurs,L,128,41,31,13,130,42,33,13,0
+0022400864,2025-03-01,Philadelphia 76ers,Golden State Warriors,W,126,40,27,14,119,49,33,15,1
+0022400867,2025-03-02,Cleveland Cavaliers,Portland Trail Blazers,W,133,47,27,15,129,46,25,20,1
+0022400871,2025-03-02,San Antonio Spurs,Oklahoma City Thunder,L,132,35,36,13,146,45,34,7,0
+0022400869,2025-03-02,Miami Heat,New York Knicks,L,112,34,29,13,116,46,27,13,0
+0022400873,2025-03-02,Phoenix Suns,Minnesota Timberwolves,L,98,57,24,22,116,35,28,8,0
+0022400872,2025-03-02,Utah Jazz,New Orleans Pelicans,L,121,41,35,13,128,48,35,11,0
+0022400874,2025-03-02,Los Angeles Lakers,LA Clippers,W,108,41,21,17,102,40,24,12,1
+0022400870,2025-03-02,Orlando Magic,Toronto Raptors,L,102,35,17,14,104,40,22,15,0
+0022400868,2025-03-02,Indiana Pacers,Chicago Bulls,W,127,36,34,12,112,42,24,14,1
+0022400866,2025-03-02,Boston Celtics,Denver Nuggets,W,110,45,26,14,103,38,27,12,1
+0022400875,2025-03-03,Charlotte Hornets,Golden State Warriors,L,101,47,20,17,119,54,33,9,0
+0022400881,2025-03-03,Utah Jazz,Detroit Pistons,L,106,41,19,28,134,39,32,13,0
+0022400880,2025-03-03,Dallas Mavericks,Sacramento Kings,L,98,37,28,14,122,37,34,7,0
+0022400878,2025-03-03,Memphis Grizzlies,Atlanta Hawks,L,130,43,36,20,132,32,35,12,0
+0022400879,2025-03-03,Oklahoma City Thunder,Houston Rockets,W,137,49,31,13,128,49,20,16,1
+0022400877,2025-03-03,Miami Heat,Washington Wizards,W,106,48,31,12,90,43,22,13,1
+0022400876,2025-03-03,Philadelphia 76ers,Portland Trail Blazers,L,102,43,27,8,119,61,26,11,0
+0022400888,2025-03-04,San Antonio Spurs,Brooklyn Nets,W,127,46,37,15,113,40,29,13,1
+0022400890,2025-03-04,Los Angeles Lakers,New Orleans Pelicans,W,136,51,32,15,115,35,29,9,1
+0022400889,2025-03-04,Phoenix Suns,LA Clippers,W,119,37,31,11,117,37,29,7,1
+0022400885,2025-03-04,New York Knicks,Golden State Warriors,L,102,42,26,14,114,44,30,13,0
+0022400886,2025-03-04,Chicago Bulls,Cleveland Cavaliers,L,117,50,32,7,139,53,27,9,0
+0022400887,2025-03-04,Minnesota Timberwolves,Philadelphia 76ers,W,126,37,29,19,112,36,22,13,1
+0022400884,2025-03-04,Atlanta Hawks,Milwaukee Bucks,L,121,47,33,12,127,51,27,15,0
+0022400883,2025-03-04,Orlando Magic,Toronto Raptors,L,113,35,28,14,114,48,28,20,0
+0022400882,2025-03-04,Indiana Pacers,Houston Rockets,W,115,35,34,13,102,58,22,14,1
+0022400893,2025-03-05,Cleveland Cavaliers,Miami Heat,W,112,47,26,13,107,42,29,14,1
+0022400898,2025-03-05,LA Clippers,Detroit Pistons,W,123,33,18,10,115,34,27,13,1
+0022400895,2025-03-05,Memphis Grizzlies,Oklahoma City Thunder,L,103,49,21,16,120,39,27,11,0
+0022400896,2025-03-05,Denver Nuggets,Sacramento Kings,W,116,46,28,13,110,45,22,12,1
+0022400894,2025-03-05,Washington Wizards,Utah Jazz,W,125,45,32,9,122,58,21,15,1
+0022400892,2025-03-05,Charlotte Hornets,Minnesota Timberwolves,L,110,57,26,15,125,43,27,6,0
+0022400891,2025-03-05,Boston Celtics,Portland Trail Blazers,W,128,52,24,10,118,39,19,8,1
+0022400897,2025-03-05,Milwaukee Bucks,Dallas Mavericks,W,137,55,29,17,107,30,30,10,1
+0022400944,2025-03-06,Orlando Magic,Chicago Bulls,L,123,33,26,12,125,48,25,19,0
+0022400899,2025-03-06,Atlanta Hawks,Indiana Pacers,W,124,43,32,9,118,42,27,11,1
+0022400901,2025-03-06,Brooklyn Nets,Golden State Warriors,L,119,32,30,12,121,45,31,17,0
+0022400902,2025-03-06,New Orleans Pelicans,Houston Rockets,L,97,41,17,15,109,41,33,19,0
+0022400900,2025-03-06,Boston Celtics,Philadelphia 76ers,W,123,46,32,11,105,45,29,16,1
+0022400903,2025-03-06,Los Angeles Lakers,New York Knicks,W,113,49,25,17,109,46,20,16,1
+0022400907,2025-03-07,Miami Heat,Minnesota Timberwolves,L,104,41,29,9,106,43,28,14,0
+0022400909,2025-03-07,Denver Nuggets,Phoenix Suns,W,149,38,45,9,141,39,36,13,1
+0022400911,2025-03-07,LA Clippers,New York Knicks,W,105,47,23,12,95,53,25,15,1
+0022400904,2025-03-07,Charlotte Hornets,Cleveland Cavaliers,L,117,43,29,12,118,45,16,14,0
+0022400906,2025-03-07,Dallas Mavericks,Memphis Grizzlies,L,111,45,24,12,122,59,28,11,0
+0022400905,2025-03-07,Toronto Raptors,Utah Jazz,W,118,48,27,10,109,56,21,25,1
+0022400908,2025-03-07,Oklahoma City Thunder,Portland Trail Blazers,W,107,43,25,13,89,53,15,17,1
+0022400910,2025-03-07,Sacramento Kings,San Antonio Spurs,W,127,51,31,8,109,36,27,8,1
+0022400917,2025-03-08,Milwaukee Bucks,Orlando Magic,L,109,38,17,13,111,34,19,10,0
+0022400912,2025-03-08,Charlotte Hornets,Brooklyn Nets,W,105,50,25,10,102,37,20,13,1
+0022400914,2025-03-08,Atlanta Hawks,Indiana Pacers,W,120,48,23,17,118,41,29,16,1
+0022400916,2025-03-08,Miami Heat,Chicago Bulls,L,109,44,25,9,114,51,27,10,0
+0022400919,2025-03-08,Golden State Warriors,Detroit Pistons,W,115,46,26,19,110,44,17,20,1
+0022400918,2025-03-08,Boston Celtics,Los Angeles Lakers,W,111,43,24,10,101,45,18,14,1
+0022400913,2025-03-08,Houston Rockets,New Orleans Pelicans,W,146,48,32,11,117,44,29,14,1
+0022400915,2025-03-08,Toronto Raptors,Washington Wizards,L,117,49,24,15,118,50,29,16,0
+0022400923,2025-03-09,New Orleans Pelicans,Memphis Grizzlies,L,104,39,24,14,107,57,24,14,0
+0022400925,2025-03-09,Minnesota Timberwolves,San Antonio Spurs,W,141,42,38,13,124,36,26,12,1
+0022400924,2025-03-09,Philadelphia 76ers,Utah Jazz,W,126,50,27,18,122,44,25,18,1
+0022400926,2025-03-09,Portland Trail Blazers,Detroit Pistons,L,112,41,17,13,119,54,22,14,0
+0022400922,2025-03-09,Milwaukee Bucks,Cleveland Cavaliers,L,100,50,17,18,112,44,25,15,0
+0022400927,2025-03-09,LA Clippers,Sacramento Kings,W,111,38,23,10,110,48,27,8,1
+0022400921,2025-03-09,Dallas Mavericks,Phoenix Suns,L,116,32,29,7,125,46,33,13,0
+0022400920,2025-03-09,Oklahoma City Thunder,Denver Nuggets,W,127,56,25,5,103,48,22,8,1
+0022400931,2025-03-10,Miami Heat,Charlotte Hornets,L,102,46,24,16,105,36,26,10,0
+0022400933,2025-03-10,Chicago Bulls,Indiana Pacers,W,121,56,30,18,103,39,30,10,1
+0022400936,2025-03-10,Oklahoma City Thunder,Denver Nuggets,L,127,37,29,11,140,43,32,12,0
+0022400934,2025-03-10,Houston Rockets,Orlando Magic,W,97,63,20,20,84,42,15,9,1
+0022400935,2025-03-10,Memphis Grizzlies,Phoenix Suns,W,120,39,26,15,118,46,31,16,1
+0022400937,2025-03-10,San Antonio Spurs,Dallas Mavericks,L,129,38,29,9,133,40,25,11,0
+0022400929,2025-03-10,Boston Celtics,Utah Jazz,W,114,47,28,9,108,48,29,12,1
+0022400930,2025-03-10,Brooklyn Nets,Los Angeles Lakers,W,111,47,22,7,108,43,31,15,1
+0022400928,2025-03-10,Atlanta Hawks,Philadelphia 76ers,W,132,48,34,15,123,31,29,11,1
+0022400932,2025-03-10,Toronto Raptors,Washington Wizards,W,119,73,26,9,104,54,25,8,1
+0022400939,2025-03-10,Sacramento Kings,New York Knicks,L,104,37,18,18,133,40,34,16,0
+0022400938,2025-03-10,Golden State Warriors,Portland Trail Blazers,W,130,40,35,18,120,43,31,19,1
+0022400943,2025-03-11,New Orleans Pelicans,LA Clippers,W,127,46,34,19,120,34,34,11,1
+0022400940,2025-03-11,Cleveland Cavaliers,Brooklyn Nets,W,109,48,23,15,104,38,31,15,1
+0022400941,2025-03-11,Detroit Pistons,Washington Wizards,W,123,61,29,12,103,47,20,13,1
+0022400942,2025-03-11,Indiana Pacers,Milwaukee Bucks,W,115,38,30,10,114,44,32,15,1
+0022400945,2025-03-12,Atlanta Hawks,Charlotte Hornets,W,123,43,26,14,110,47,29,21,1
+0022400946,2025-03-12,Boston Celtics,Oklahoma City Thunder,L,112,41,25,13,118,44,19,12,0
+0022400950,2025-03-12,Memphis Grizzlies,Utah Jazz,W,122,39,30,9,115,60,24,23,1
+0022400951,2025-03-12,San Antonio Spurs,Dallas Mavericks,W,126,47,32,16,116,31,30,18,1
+0022400948,2025-03-12,Miami Heat,LA Clippers,L,104,29,27,11,119,45,24,18,0
+0022400947,2025-03-12,Toronto Raptors,Philadelphia 76ers,W,118,59,33,22,105,40,19,9,1
+0022400949,2025-03-12,Houston Rockets,Phoenix Suns,W,111,38,25,9,104,37,22,17,1
+0022400952,2025-03-12,Denver Nuggets,Minnesota Timberwolves,L,95,42,20,10,115,48,31,15,0
+0022400953,2025-03-12,Portland Trail Blazers,New York Knicks,L,113,52,20,25,114,38,27,15,0
+0022400955,2025-03-13,Milwaukee Bucks,Los Angeles Lakers,W,126,48,30,12,106,38,18,14,1
+0022401141,2025-03-13,New Orleans Pelicans,Orlando Magic,L,93,40,23,13,113,39,25,11,0
+0022400954,2025-03-13,Detroit Pistons,Washington Wizards,L,125,41,23,12,129,47,30,16,0
+0022400957,2025-03-13,Golden State Warriors,Sacramento Kings,W,130,43,35,16,104,30,25,15,1
+0022400956,2025-03-13,Chicago Bulls,Brooklyn Nets,W,116,47,24,8,110,50,32,9,1
+0022400963,2025-03-14,Minnesota Timberwolves,Orlando Magic,W,118,45,26,16,111,31,18,11,1
+0022400958,2025-03-14,Miami Heat,Boston Celtics,L,91,38,18,18,103,41,18,15,0
+0022400959,2025-03-14,Philadelphia 76ers,Indiana Pacers,L,100,43,13,16,112,45,31,11,0
+0022400960,2025-03-14,Atlanta Hawks,LA Clippers,L,98,44,25,18,121,40,27,14,0
+0022400961,2025-03-14,Houston Rockets,Dallas Mavericks,W,133,67,27,11,96,34,14,8,1
+0022400964,2025-03-14,San Antonio Spurs,Charlotte Hornets,L,134,36,27,14,145,34,42,20,0
+0022400962,2025-03-14,Memphis Grizzlies,Cleveland Cavaliers,L,124,45,25,14,133,43,32,16,0
+0022400965,2025-03-14,Denver Nuggets,Los Angeles Lakers,W,131,39,30,12,126,47,32,9,1
+0022400967,2025-03-14,Phoenix Suns,Sacramento Kings,W,122,34,33,14,106,40,25,19,1
+0022400966,2025-03-14,Utah Jazz,Toronto Raptors,L,118,35,23,17,126,51,28,15,0
+0022400970,2025-03-15,Houston Rockets,Chicago Bulls,W,117,54,24,14,114,36,24,11,1
+0022400975,2025-03-15,Denver Nuggets,Washington Wizards,L,123,42,40,18,126,44,34,17,0
+0022400974,2025-03-15,Golden State Warriors,New York Knicks,W,97,45,25,11,94,49,20,13,1
+0022400972,2025-03-15,Milwaukee Bucks,Indiana Pacers,W,126,45,28,17,119,32,29,12,1
+0022400973,2025-03-15,San Antonio Spurs,New Orleans Pelicans,W,119,37,26,10,115,52,34,18,1
+0022400968,2025-03-15,Brooklyn Nets,Boston Celtics,L,113,45,34,9,115,38,29,8,0
+0022400969,2025-03-15,Detroit Pistons,Oklahoma City Thunder,L,107,39,29,17,113,44,17,18,0
+0022400971,2025-03-15,Memphis Grizzlies,Miami Heat,W,125,51,31,11,91,37,24,14,1
+0022400980,2025-03-16,Portland Trail Blazers,Toronto Raptors,W,105,51,21,22,102,47,29,18,1
+0022400978,2025-03-16,Brooklyn Nets,Atlanta Hawks,W,122,40,33,17,114,38,27,14,1
+0022400976,2025-03-16,Dallas Mavericks,Philadelphia 76ers,L,125,45,26,15,130,39,21,11,0
+0022400982,2025-03-16,Milwaukee Bucks,Oklahoma City Thunder,L,105,34,21,9,121,50,30,10,0
+0022400981,2025-03-16,Minnesota Timberwolves,Utah Jazz,W,128,49,30,10,102,44,23,22,1
+0022400538,2025-03-16,LA Clippers,Charlotte Hornets,W,123,58,30,11,88,44,27,11,1
+0022400977,2025-03-16,Los Angeles Lakers,Phoenix Suns,W,107,40,22,10,96,51,25,14,1
+0022400979,2025-03-16,Cleveland Cavaliers,Orlando Magic,L,103,48,21,14,108,47,21,18,0
+0022400990,2025-03-17,Golden State Warriors,Denver Nuggets,L,105,38,24,20,114,53,32,22,0
+0022400986,2025-03-17,Minnesota Timberwolves,Indiana Pacers,L,130,44,25,15,132,48,28,20,0
+0022400537,2025-03-17,Los Angeles Lakers,San Antonio Spurs,W,125,42,34,9,109,44,30,17,1
+0022400992,2025-03-17,Sacramento Kings,Memphis Grizzlies,W,132,38,35,14,122,48,24,18,1
+0022400989,2025-03-17,Utah Jazz,Chicago Bulls,L,97,48,20,17,111,49,29,11,0
+0022400995,2025-03-17,Portland Trail Blazers,Washington Wizards,W,112,50,25,9,97,49,27,16,1
+0022400991,2025-03-17,Phoenix Suns,Toronto Raptors,W,129,54,34,10,89,40,20,12,1
+0022400987,2025-03-17,New Orleans Pelicans,Detroit Pistons,L,81,39,18,17,127,50,33,14,0
+0022400985,2025-03-17,Houston Rockets,Philadelphia 76ers,W,144,58,35,15,137,35,21,16,1
+0022400984,2025-03-17,New York Knicks,Miami Heat,W,116,41,30,14,95,39,23,21,1
+0022400993,2025-03-18,Charlotte Hornets,Atlanta Hawks,L,102,39,25,17,134,46,27,11,0
+0022400994,2025-03-18,Boston Celtics,Brooklyn Nets,W,104,48,24,13,96,39,21,9,1
+0022401012,2025-03-18,Golden State Warriors,Milwaukee Bucks,W,104,52,25,19,93,34,19,10,1
+0022400997,2025-03-18,LA Clippers,Cleveland Cavaliers,W,132,49,28,13,119,29,29,9,1
+0022400998,2025-03-19,Indiana Pacers,Dallas Mavericks,W,135,38,29,11,131,41,23,13,1
+0022400999,2025-03-19,Orlando Magic,Houston Rockets,L,108,41,23,12,116,46,18,16,0
+0022401001,2025-03-19,Minnesota Timberwolves,New Orleans Pelicans,L,115,40,21,14,119,46,28,15,0
+0022400627,2025-03-19,Utah Jazz,Washington Wizards,W,128,42,30,17,112,37,30,14,1
+0022401003,2025-03-19,San Antonio Spurs,New York Knicks,W,120,52,28,15,105,44,28,11,1
+0022401002,2025-03-19,Oklahoma City Thunder,Philadelphia 76ers,W,133,55,36,14,100,41,24,12,1
+0022401000,2025-03-19,Miami Heat,Detroit Pistons,L,113,37,24,13,116,47,25,13,0
+0022401008,2025-03-19,Portland Trail Blazers,Memphis Grizzlies,W,115,65,25,17,99,40,23,10,1
+0022401006,2025-03-19,Los Angeles Lakers,Denver Nuggets,W,120,38,25,14,108,45,25,19,1
+0022401009,2025-03-19,Sacramento Kings,Cleveland Cavaliers,W,123,41,28,13,119,37,24,12,1
+0022401007,2025-03-19,Phoenix Suns,Chicago Bulls,W,127,46,34,11,121,40,29,13,1
+0022401010,2025-03-20,Charlotte Hornets,New York Knicks,W,115,52,25,12,98,38,26,7,1
+0022401011,2025-03-20,Indiana Pacers,Brooklyn Nets,W,105,57,18,25,99,47,20,16,1
+0022400996,2025-03-20,Los Angeles Lakers,Milwaukee Bucks,L,89,50,26,22,118,41,24,9,0
+0022401005,2025-03-20,Golden State Warriors,Toronto Raptors,W,117,38,30,15,114,44,32,23,1
+0022401013,2025-03-20,Sacramento Kings,Chicago Bulls,L,116,36,27,12,128,40,32,14,0
+0022401018,2025-03-21,San Antonio Spurs,Philadelphia 76ers,W,128,34,36,15,120,32,30,20,1
+0022401021,2025-03-21,Phoenix Suns,Cleveland Cavaliers,W,123,46,33,15,112,44,24,11,1
+0022401022,2025-03-21,Portland Trail Blazers,Denver Nuggets,W,128,38,30,17,109,31,24,21,1
+0022401023,2025-03-21,LA Clippers,Memphis Grizzlies,W,128,43,29,15,108,40,28,10,1
+0022401020,2025-03-21,Utah Jazz,Boston Celtics,L,99,38,24,17,121,48,27,11,0
+0022401019,2025-03-21,Dallas Mavericks,Detroit Pistons,W,123,44,25,20,117,41,24,14,1
+0022401015,2025-03-21,Miami Heat,Houston Rockets,L,98,34,25,21,102,46,14,17,0
+0022401016,2025-03-21,Minnesota Timberwolves,New Orleans Pelicans,W,134,36,40,14,93,33,20,26,1
+0022401017,2025-03-21,Oklahoma City Thunder,Charlotte Hornets,W,141,43,29,9,106,29,29,16,1
+0022401014,2025-03-21,Washington Wizards,Orlando Magic,L,105,41,23,15,120,55,25,13,0
+0022401024,2025-03-22,Indiana Pacers,Brooklyn Nets,W,108,44,32,15,103,48,20,15,1
+0022401028,2025-03-22,Los Angeles Lakers,Chicago Bulls,L,115,35,23,21,146,42,41,10,0
+0022401027,2025-03-22,Sacramento Kings,Milwaukee Bucks,L,108,44,21,8,114,42,22,10,0
+0022401026,2025-03-22,New York Knicks,Washington Wizards,W,122,49,29,16,103,41,21,20,1
+0022401025,2025-03-22,Atlanta Hawks,Golden State Warriors,W,124,46,37,16,115,38,28,10,1
+0022401031,2025-03-23,Atlanta Hawks,Philadelphia 76ers,W,132,39,35,17,119,37,24,13,1
+0022401034,2025-03-23,Portland Trail Blazers,Boston Celtics,L,116,38,24,12,129,38,31,9,0
+0022401036,2025-03-23,LA Clippers,Oklahoma City Thunder,L,101,48,20,14,103,42,28,9,0
+0022401035,2025-03-23,Houston Rockets,Denver Nuggets,L,111,45,25,6,116,43,28,9,0
+0022401033,2025-03-23,Toronto Raptors,San Antonio Spurs,L,89,46,27,22,123,46,27,14,0
+0022401032,2025-03-23,Miami Heat,Charlotte Hornets,W,122,32,27,12,105,40,24,20,1
+0022401030,2025-03-23,Utah Jazz,Cleveland Cavaliers,L,91,52,25,21,120,51,28,7,0
+0022401029,2025-03-23,Detroit Pistons,New Orleans Pelicans,W,136,32,26,8,130,37,35,18,1
+0022401037,2025-03-24,Indiana Pacers,Minnesota Timberwolves,W,119,46,30,12,103,45,26,17,1
+0022401038,2025-03-24,Orlando Magic,Los Angeles Lakers,W,118,43,25,9,106,39,19,11,1
+0022401041,2025-03-24,New Orleans Pelicans,Philadelphia 76ers,W,112,51,36,17,99,37,19,12,1
+0022401039,2025-03-24,Washington Wizards,Toronto Raptors,L,104,48,24,17,112,60,28,12,0
+0022401040,2025-03-24,Brooklyn Nets,Dallas Mavericks,L,101,37,30,19,120,41,34,11,0
+0022401042,2025-03-24,Denver Nuggets,Chicago Bulls,L,119,52,34,12,129,43,31,10,0
+0022401044,2025-03-24,Sacramento Kings,Boston Celtics,L,95,45,23,15,113,45,28,10,0
+0022401043,2025-03-24,Phoenix Suns,Milwaukee Bucks,W,108,52,25,16,106,36,24,7,1
+0022401047,2025-03-25,Miami Heat,Golden State Warriors,W,112,42,26,18,86,38,20,16,1
+0022401045,2025-03-25,Charlotte Hornets,Orlando Magic,L,104,38,26,11,111,50,22,11,0
+0022401049,2025-03-25,Houston Rockets,Atlanta Hawks,W,121,51,17,16,114,42,32,14,1
+0022401050,2025-03-25,Utah Jazz,Memphis Grizzlies,L,103,28,24,14,140,52,38,9,0
+0022401048,2025-03-25,New York Knicks,Dallas Mavericks,W,128,36,40,15,113,33,19,16,1
+0022401051,2025-03-25,Portland Trail Blazers,Cleveland Cavaliers,L,111,45,28,10,122,41,28,14,0
+0022401046,2025-03-25,Detroit Pistons,San Antonio Spurs,W,122,44,33,11,96,41,21,11,1
+0022401052,2025-03-25,Sacramento Kings,Oklahoma City Thunder,L,105,36,32,11,121,52,30,17,0
+0022401053,2025-03-26,Philadelphia 76ers,Washington Wizards,L,114,47,22,5,119,49,30,11,0
+0022401056,2025-03-26,New York Knicks,LA Clippers,L,113,38,35,10,126,45,27,5,0
+0022401054,2025-03-26,Brooklyn Nets,Toronto Raptors,L,86,43,16,20,116,63,34,12,0
+0022401057,2025-03-26,Denver Nuggets,Milwaukee Bucks,W,127,46,36,10,117,39,30,11,1
+0022401058,2025-03-26,Phoenix Suns,Boston Celtics,L,102,38,22,14,132,48,33,11,0
+0022401055,2025-03-26,Indiana Pacers,Los Angeles Lakers,L,119,36,31,10,120,43,26,15,0
+0022401060,2025-03-27,Orlando Magic,Dallas Mavericks,L,92,44,14,17,101,40,21,15,0
+0022401063,2025-03-27,Chicago Bulls,Los Angeles Lakers,W,119,48,33,15,117,40,30,11,1
+0022401064,2025-03-27,Oklahoma City Thunder,Memphis Grizzlies,W,125,45,28,12,104,36,28,19,1
+0022401062,2025-03-27,Miami Heat,Atlanta Hawks,W,122,37,26,14,112,36,27,16,1
+0022401059,2025-03-27,Cleveland Cavaliers,San Antonio Spurs,W,124,56,33,14,116,50,27,10,1
+0022401061,2025-03-27,Washington Wizards,Indiana Pacers,L,109,31,19,15,162,50,48,15,0
+0022401065,2025-03-27,Utah Jazz,Houston Rockets,L,110,33,29,16,121,51,26,9,0
+0022401066,2025-03-27,Sacramento Kings,Portland Trail Blazers,W,128,46,24,21,107,32,23,12,1
+0022401067,2025-03-28,Detroit Pistons,Cleveland Cavaliers,W,133,43,25,13,122,41,16,15,1
+0022401071,2025-03-28,Minnesota Timberwolves,Phoenix Suns,W,124,43,31,13,109,34,28,16,1
+0022401072,2025-03-28,New Orleans Pelicans,Golden State Warriors,L,95,46,24,16,111,50,29,11,0
+0022401069,2025-03-28,Toronto Raptors,Charlotte Hornets,W,108,45,28,6,97,56,29,18,1
+0022401073,2025-03-28,Denver Nuggets,Utah Jazz,W,129,45,38,18,93,42,21,18,1
+0022401070,2025-03-28,Milwaukee Bucks,New York Knicks,L,107,32,24,16,116,44,28,9,0
+0022401068,2025-03-28,Brooklyn Nets,LA Clippers,L,100,43,27,15,132,48,29,13,0
+0022401075,2025-03-29,Washington Wizards,Brooklyn Nets,L,112,40,21,6,115,49,25,14,0
+0022401074,2025-03-29,Orlando Magic,Sacramento Kings,W,121,49,31,14,91,41,17,16,1
+0022401079,2025-03-29,Oklahoma City Thunder,Indiana Pacers,W,132,47,26,10,111,43,27,13,1
+0022401080,2025-03-29,San Antonio Spurs,Boston Celtics,L,111,35,25,5,121,54,32,11,0
+0022401077,2025-03-29,Chicago Bulls,Dallas Mavericks,L,119,56,31,19,120,41,28,6,0
+0022401078,2025-03-29,Memphis Grizzlies,Los Angeles Lakers,L,127,41,33,12,134,42,30,13,0
+0022401076,2025-03-29,Philadelphia 76ers,Miami Heat,L,95,37,28,18,118,47,33,11,0
+0022401082,2025-03-30,New York Knicks,Portland Trail Blazers,W,110,44,27,15,93,39,19,14,1
+0022401085,2025-03-30,New Orleans Pelicans,Charlotte Hornets,W,98,57,24,17,94,50,20,15,1
+0022401083,2025-03-30,Milwaukee Bucks,Atlanta Hawks,L,124,36,21,14,145,46,36,9,0
+0022401087,2025-03-30,Philadelphia 76ers,Toronto Raptors,L,109,46,25,18,127,46,32,11,0
+0022401086,2025-03-30,San Antonio Spurs,Golden State Warriors,L,106,34,30,21,148,44,42,13,0
+0022401088,2025-03-30,Phoenix Suns,Houston Rockets,L,109,39,25,19,148,45,37,10,0
+0022401081,2025-03-30,Cleveland Cavaliers,LA Clippers,W,127,45,33,10,122,44,25,14,1
+0022401084,2025-03-30,Minnesota Timberwolves,Detroit Pistons,W,123,59,24,10,104,44,22,7,1
+0022401091,2025-03-31,Orlando Magic,LA Clippers,L,87,32,18,15,96,47,18,16,0
+0022401096,2025-03-31,Los Angeles Lakers,Houston Rockets,W,104,45,22,11,98,51,26,15,1
+0022401092,2025-03-31,Washington Wizards,Miami Heat,L,94,39,22,18,120,62,29,19,0
+0022401095,2025-03-31,Dallas Mavericks,Brooklyn Nets,L,109,49,29,10,113,40,32,8,0
+0022401093,2025-03-31,Memphis Grizzlies,Boston Celtics,L,103,45,21,11,117,54,30,13,0
+0022401090,2025-03-31,Indiana Pacers,Sacramento Kings,W,111,40,28,13,109,45,22,12,1
+0022401094,2025-03-31,Oklahoma City Thunder,Chicago Bulls,W,145,44,39,14,117,43,29,20,1
+0022401089,2025-03-31,Charlotte Hornets,Utah Jazz,W,110,47,33,18,106,41,25,10,1
+0022401098,2025-04-01,New York Knicks,Philadelphia 76ers,W,105,44,23,19,91,42,23,20,1
+0022401097,2025-04-01,Atlanta Hawks,Portland Trail Blazers,L,113,45,26,20,127,54,30,17,0
+0022401101,2025-04-01,Milwaukee Bucks,Phoenix Suns,W,133,29,32,20,123,33,26,14,1
+0022401100,2025-04-01,Memphis Grizzlies,Golden State Warriors,L,125,43,22,16,134,49,29,11,0
+0022400988,2025-04-01,San Antonio Spurs,Orlando Magic,L,105,38,24,17,116,41,28,13,0
+0022401099,2025-04-01,Chicago Bulls,Toronto Raptors,W,137,49,36,12,118,35,35,12,1
+0022401102,2025-04-01,Denver Nuggets,Minnesota Timberwolves,L,139,45,33,18,140,52,35,14,0
+0022401104,2025-04-02,Indiana Pacers,Charlotte Hornets,W,119,38,29,6,105,44,20,18,1
+0022401105,2025-04-02,Washington Wizards,Sacramento Kings,W,116,41,24,14,111,48,25,11,1
+0022401103,2025-04-02,Cleveland Cavaliers,New York Knicks,W,124,44,23,13,105,39,24,16,1
+0022401106,2025-04-02,Boston Celtics,Miami Heat,L,103,43,24,13,124,34,28,5,0
+0022401107,2025-04-02,Houston Rockets,Utah Jazz,W,143,63,30,10,105,39,25,10,1
+0022401109,2025-04-02,Dallas Mavericks,Atlanta Hawks,W,120,42,27,15,118,43,29,11,1
+0022401110,2025-04-02,Denver Nuggets,San Antonio Spurs,L,106,58,24,12,113,52,27,10,0
+0022401108,2025-04-02,Oklahoma City Thunder,Detroit Pistons,W,119,46,25,10,103,43,20,19,1
+0022401111,2025-04-02,LA Clippers,New Orleans Pelicans,W,114,30,27,13,98,39,29,17,1
+0022401115,2025-04-03,Philadelphia 76ers,Milwaukee Bucks,L,113,40,30,15,126,40,32,11,0
+0022401113,2025-04-03,Brooklyn Nets,Minnesota Timberwolves,L,90,34,30,12,105,45,27,18,0
+0022401116,2025-04-03,Toronto Raptors,Portland Trail Blazers,L,103,35,29,18,112,54,20,25,0
+0022401112,2025-04-03,Washington Wizards,Orlando Magic,L,97,38,16,13,109,47,27,12,0
+0022401114,2025-04-03,Miami Heat,Memphis Grizzlies,L,108,47,24,11,110,49,24,18,0
+0022401117,2025-04-03,Los Angeles Lakers,Golden State Warriors,L,116,39,23,10,123,46,30,13,0
+0022401118,2025-04-04,Charlotte Hornets,Sacramento Kings,L,102,45,17,13,125,44,26,8,0
+0022401120,2025-04-04,Boston Celtics,Phoenix Suns,W,123,49,28,7,103,40,24,8,1
+0022401124,2025-04-04,San Antonio Spurs,Cleveland Cavaliers,L,113,44,27,12,114,44,31,17,0
+0022401123,2025-04-04,Houston Rockets,Oklahoma City Thunder,W,125,48,24,15,111,33,24,15,1
+0022401121,2025-04-04,Toronto Raptors,Detroit Pistons,L,105,49,24,16,117,47,27,14,0
+0022401119,2025-04-04,Indiana Pacers,Utah Jazz,W,140,51,38,7,112,52,21,13,1
+0022401122,2025-04-04,Chicago Bulls,Portland Trail Blazers,W,118,61,25,18,113,54,23,5,1
+0022401127,2025-04-04,LA Clippers,Dallas Mavericks,W,114,48,23,13,91,39,19,18,1
+0022401126,2025-04-04,Los Angeles Lakers,New Orleans Pelicans,W,124,36,26,13,108,38,27,17,1
+0022401125,2025-04-04,Golden State Warriors,Denver Nuggets,W,118,36,25,14,104,38,28,26,1
+0022401131,2025-04-05,Miami Heat,Milwaukee Bucks,L,115,52,24,10,121,47,29,9,0
+0022401132,2025-04-05,LA Clippers,Dallas Mavericks,W,135,45,31,7,104,41,18,16,1
+0022401128,2025-04-05,Atlanta Hawks,New York Knicks,L,105,38,24,15,121,38,32,14,0
+0022401129,2025-04-05,Detroit Pistons,Memphis Grizzlies,L,103,44,24,7,109,64,19,15,0
+0022401130,2025-04-05,Philadelphia 76ers,Minnesota Timberwolves,L,109,34,26,11,114,47,22,15,0
+0022401136,2025-04-06,Atlanta Hawks,Utah Jazz,W,147,42,43,12,134,32,29,10,1
+0022401135,2025-04-06,Oklahoma City Thunder,Los Angeles Lakers,L,99,34,20,7,126,43,25,17,0
+0022401138,2025-04-06,Cleveland Cavaliers,Sacramento Kings,L,113,39,31,16,120,39,25,17,0
+0022401139,2025-04-06,Portland Trail Blazers,San Antonio Spurs,W,120,44,25,15,109,45,26,18,1
+0022401143,2025-04-06,Golden State Warriors,Houston Rockets,L,96,46,28,20,106,49,26,16,0
+0022401133,2025-04-06,Charlotte Hornets,Chicago Bulls,L,117,40,25,14,131,41,26,13,0
+0022401142,2025-04-06,Denver Nuggets,Indiana Pacers,L,120,47,33,13,125,41,34,6,0
+0022401137,2025-04-06,Boston Celtics,Washington Wizards,W,124,62,33,14,90,32,21,10,1
+0022401140,2025-04-06,New York Knicks,Phoenix Suns,W,112,41,28,15,98,35,20,12,1
+0022401134,2025-04-06,Brooklyn Nets,Toronto Raptors,L,109,46,25,24,120,47,30,19,0
+0022400617,2025-04-06,New Orleans Pelicans,Milwaukee Bucks,L,107,48,31,12,111,51,29,7,0
+0022401144,2025-04-07,Detroit Pistons,Sacramento Kings,L,117,37,30,9,127,50,20,12,0
+0022401145,2025-04-07,Miami Heat,Philadelphia 76ers,W,117,47,26,13,105,45,20,13,1
+0022401153,2025-04-08,Oklahoma City Thunder,Los Angeles Lakers,W,136,44,26,7,120,45,21,19,1
+0022401152,2025-04-08,Milwaukee Bucks,Minnesota Timberwolves,W,110,43,27,12,103,42,25,14,1
+0022401151,2025-04-08,New York Knicks,Boston Celtics,L,117,52,28,11,119,38,26,15,0
+0022401147,2025-04-08,Cleveland Cavaliers,Chicago Bulls,W,135,45,35,13,113,45,26,20,1
+0022401148,2025-04-08,Indiana Pacers,Washington Wizards,W,104,49,21,9,98,50,18,14,1
+0022401154,2025-04-08,Phoenix Suns,Golden State Warriors,,74,36,16,16,113,48,28,13,0
+0022401155,2025-04-08,LA Clippers,San Antonio Spurs,,72,28,18,9,55,20,12,14,0
+0022401150,2025-04-08,Brooklyn Nets,New Orleans Pelicans,W,119,40,30,16,114,42,26,17,1
+0022401146,2025-04-08,Charlotte Hornets,Memphis Grizzlies,L,100,38,22,15,124,52,23,14,0
+0022401149,2025-04-08,Orlando Magic,Atlanta Hawks,W,119,43,23,14,112,41,25,18,1
